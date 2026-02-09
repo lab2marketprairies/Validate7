@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #3E3E3E;
+  /* Onyx */
+
+  /* Lab2Market Brand Colors */
+  --color-primary: #C3B389;
+  --color-secondary: #FDEF52;
+  --color-onyx: #3E3E3E;
+  --color-sky-blue: #73CDD9;
+  --color-polar: #F4F7F9;
+
+  /* Semantic Colors */
+  --color-success: #10B981;
+  --color-warning: #F59E0B;
+  --color-error: #EF4444;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-primary: var(--color-primary);
+  --color-secondary: var(--color-secondary);
+  --color-onyx: var(--color-onyx);
+  --color-sky-blue: var(--color-sky-blue);
+  --color-polar: var(--color-polar);
+
+  --color-success: var(--color-success);
+  --color-warning: var(--color-warning);
+  --color-error: var(--color-error);
+
+  --font-sans: "Circular Std", Arial, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}

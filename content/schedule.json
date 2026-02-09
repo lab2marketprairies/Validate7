@@ -1,0 +1,806 @@
+[
+    {
+        "phase": "Bootcamp",
+        "title": "Phase 1: Pre-Program (Bootcamp)",
+        "dates": "March 9 – March 27, 2026",
+        "status": "upcoming",
+        "sessions": [
+            {
+                "day": "Day 1",
+                "title": "Welcome Ceremony",
+                "date": "Monday, March 9, 2026",
+                "time": "9:00 am - 12:00 pm",
+                "type": "session",
+                "description": "The welcome ceremony will welcome all participants, highlight why Lab2Market exists, program expectations, an entrepreneurial host an Alumni Fireside chat, and let entrepreneur leads (ELs) briefly introduce themselves. This evening, ELs will watch a recorded lecture to prepare for the next day.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 9:15 am",
+                        "activity": "Welcome, L2M Prairies Team Introductions, & Guest Speakers"
+                    },
+                    {
+                        "time": "9:15 am - 9:30 am",
+                        "activity": "Opening Remarks"
+                    },
+                    {
+                        "time": "9:30 am - 10:00 am",
+                        "activity": "Program Overview + Inspirational Guest Speaker"
+                    },
+                    {
+                        "time": "10:00 am - 10:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "10:15 am - 11:00 am",
+                        "activity": "L2M Alumni Fireside Chat"
+                    },
+                    {
+                        "time": "11:00 am - 11:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "11:15 am - 12:00 pm",
+                        "activity": "Team Introductions (ELs - 2 Minutes Each) + Closing Remarks"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "Evening Homework",
+                        "items": [
+                            "**Assessing Risk (Part A):** [01_WATCH_VIDEO_Assessing_Risk_Part_A](https://drive.google.com/file/d/1Gidhst4BbqCSii5h44uHFlYmPFHHuFzO/view?usp=drive_link)",
+                            "**Read this:** [Briefing_Document_Assessing_Risk_PART_A](https://docs.google.com/document/d/1ys-dtHJfL_8kOWunZxtbTMR5B9--Gc4F/edit?usp=drive_link&ouid=115984920499255154094&rtpof=true&sd=true) - This will prepare you for the activities for the next day (including a short quiz to test your knowledge in the morning)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 2",
+                "title": "Customers & Value",
+                "date": "Tuesday, March 10, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "type": "session",
+                "description": "The morning will kick off to check EL’s understanding of the assigned recorded video lecture from the night before. The program tools Notion and Google Drive (how to access your Team Folder) will be introduced, followed by activities on choosing customer segments (CS), and how to write good CS and value proposition hypotheses. The day will wrap up with our guest speaker, to introduce you to Intellectual Property (IP). While Lab2Market Prairies / Validate is agnostic of IP, a high-level intellectual property workshop is included in the pre-program curriculum to ensure teams are aware of IP considerations and important questions they should be asking. During the presentation, our Andrew Tse will discuss Intellectual Property and how the University of Manitoba, North Forge, and other Tech Transfer Offices can support the process.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 9:15 am",
+                        "activity": "Quiz #1 - Check Your Understanding: Assessing Risk (Part A)"
+                    },
+                    {
+                        "time": "9:15 am - 9:30 am",
+                        "activity": "Energizer Activity"
+                    },
+                    {
+                        "time": "9:30 am - 10:00 am",
+                        "activity": "Program Tools #1: Notion + Team Folders"
+                    },
+                    {
+                        "time": "10:00 am - 10:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "10:15 am - 11:00 am",
+                        "activity": "Activity #1: Choosing Your Customer Segments Wisely"
+                    },
+                    {
+                        "time": "11:00 am - 11:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "11:15 am - 12:00 pm",
+                        "activity": "Activity #2: Writing Good Customer Segments & Value Proposition Hypotheses"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch Break (1 Hour)"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Guest Speaker #1: Andrew Tse (PKMI) - Intellectual Property (IP)"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "WATCH VIDEO LECTURE TONIGHT",
+                        "items": [
+                            "**Assessing Risk (Part B) Video:** https://drive.google.com/file/d/1-bi_RRmIYSGCOIpiF3L8cBrq88rbnROZ/view?usp=sharing",
+                            "**Assessing Risk (Part B) Text:** https://drive.google.com/file/d/1yo7txjrSwyvpdRoMb3zL1XO0o5d6gHz6/view?usp=sharing - This will prepare you for the activities for the next day (including a short quiz to check your understanding)"
+                        ]
+                    },
+                    {
+                        "title": "📝 COMPLETE HOMEWORK BEFORE 6:00 PM TONIGHT",
+                        "items": [
+                            "In your **L2M Bootcamp Workbook**: Define your most important customer segments and Draft 3 CS & 3 VP hypotheses",
+                            "In **Innovation Within**: Accept the invitation (Gmail) and create your account. Enter your 3 CS & VP hypotheses into Innovation Within and link them to one another"
+                        ]
+                    },
+                    {
+                        "title": "Other Tasks",
+                        "items": [
+                            "Download, read, fill out, and re-upload the ‘Photo Video Consent_Waiver Form’ in your **Team folder**."
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 3",
+                "title": "Outreach & Networking",
+                "date": "Wednesday, March 11, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "type": "session",
+                "description": "The morning will kick off to check EL’s understanding of the assigned recorded video lecture from the night before. This will be followed with an energizer activity, then an orientation on where to access their Customer Relationship Management (CRM) tool, followed by a quick touch base to ensure everyone can access their Innovation Within accounts. ELs will engage in activities for writing effective outreach scripts and to increase their networking skills. At the end of the day, the mentors will be introduced and then ELs and mentors will have the chance to get to know one another.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 9:15 am",
+                        "activity": "Quiz #2 - Check Your Understanding: Assessing Risk (Part 2)"
+                    },
+                    {
+                        "time": "9:15 am - 9:30 am",
+                        "activity": "Energizer Activity"
+                    },
+                    {
+                        "time": "9:30 am - 10:00 am",
+                        "activity": "Program Tools #2: Customer Relationship Management + Innovation Within"
+                    },
+                    {
+                        "time": "10:00 am - 10:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "10:15 am - 11:00 am",
+                        "activity": "Activity #3: Writing Effective Outreach Scripts"
+                    },
+                    {
+                        "time": "11:00 am - 11:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "11:15 am - 12:00 pm",
+                        "activity": "Activity #4: Networking Skills 101"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch Break (1 Hour)"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Meet The Mentors"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "WATCH THE VIDEO LECTURE AND READ THE TEXT DOCUMENT TONIGHT",
+                        "items": [
+                            "**Watch the Video on Market Research Best Practices:** [Market Research Video](https://drive.google.com/file/d/1KapcATbZ9u5JG_SIP1FCrMJok2jUOxRT/view?usp=share_link)",
+                            "**Read the Briefing document that goes with the video:** [Briefing Document](https://drive.google.com/file/d/1jVIwROMso4fi9nGUX1EZwyBz9W28czYh/view?usp=share_link)",
+                            "This will prepare you for the activities for the next day (including a short quiz to check your understanding)"
+                        ]
+                    },
+                    {
+                        "title": "📝 COMPLETE HOMEWORK BEFORE 6:00 PM TONIGHT",
+                        "items": [
+                            "In your **L2M Bootcamp Workbook**, complete:",
+                            "Activity #3-A: Write your own email script",
+                            "Activity #3-B: Write your cold call and voicemail scripts",
+                            "Activity #4: Networking Skills 101 Reflection"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 4",
+                "title": "Value Proposition Canvas & Interviews",
+                "date": "Thursday, March 12, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "type": "session",
+                "description": "The morning will kick off to check EL’s understanding of the assigned recorded video lecture from the night before. This will be followed with an energizer activity, then an orientation on how to use our main communication software, Slack. CS & VPs will continue to be explored through activities on creating customer profiles and value maps, and crafting scripts and interview questions for your stakeholders. ELs will meet with their assigned facilitator to go over the program expectations (e.g., deliverables, facilitator office hours, scrums, etc.) to help prepare ELs for success. This evening, ELs will watch a recorded lecture and complete homework to prepare for the next day.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 9:15 am",
+                        "activity": "Quiz #3 - Check Your Understanding: Market Research Best Practices"
+                    },
+                    {
+                        "time": "9:15 am - 9:30 am",
+                        "activity": "Energizer Activity"
+                    },
+                    {
+                        "time": "9:30 am - 10:00 am",
+                        "activity": "Program Tools #3: Slack Communication 101"
+                    },
+                    {
+                        "time": "10:00 am - 10:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "10:15 am - 11:00 am",
+                        "activity": "Activity #5: Creating Customer Profiles & Value Maps Using the VPC"
+                    },
+                    {
+                        "time": "11:00 am - 11:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "11:15 am - 12:00 pm",
+                        "activity": "Activity #6: Writing Effective Value Proposition & Customer Segment Interview Questions"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch Break (1 Hour)"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Meet Your Core Facilitator"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "WATCH 30-MINUTE RECORDED VIDEO LECTURE TONIGHT",
+                        "items": [
+                            "**Value Propositions:** [03_WATCH_VIDEO_Value_Propositions](https://drive.google.com/file/d/1BsiEtTAO8Gu164U0Kb94rorBm8WmEjkQ/view?usp=drive_link)",
+                            "**Read this:** [03_READ_THIS_Briefing_Document_Value_Propositions](https://drive.google.com/file/d/1OSvl6qag7iGsoZD4q6KI-_GuaAac7aHd/view?usp=drive_link)",
+                            "This will prepare you for the activities for the next day (including a short quiz to check your understanding)"
+                        ]
+                    },
+                    {
+                        "title": "📝 COMPLETE HOMEWORK BEFORE 6:00 PM TONIGHT",
+                        "items": [
+                            "In your **L2M Bootcamp Workbook**: Value Proposition Canvas (Customer Profile & Value Map) and Draft Customer Segment and Value Proposition Interview Script"
+                        ]
+                    },
+                    {
+                        "title": "OTHER REMINDERS",
+                        "items": [
+                            "Populate your CRM with 50 names of target stakeholders using Google, LinkedIn, and your network.",
+                            "Engage socially on **Slack**. Connect with ELs, mentors, and facilitators.",
+                            "Have Fun. ***If you are not having fun, you are not doing it right!***"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 5",
+                "title": "Interview Practice & CRMs",
+                "date": "Friday, March 13, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "type": "session",
+                "description": "The morning will kick off to check EL’s understanding of the assigned recorded video lecture from the night before. This will be followed with an energizer activity, then Demetre will introduce the EL Checklist and expectations. ELs will then engage in activities to practice interviewing and to learn how to strategically use their Customer Relationship Management (CRM) spreadsheet. Next, we’ll have James O’Connor from Innovation Within, who will demonstrate how to use the Business Model Canvas (BMC) and other features.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 9:15 am",
+                        "activity": "Quiz #4 - Check Your Understanding: Value Propositions"
+                    },
+                    {
+                        "time": "9:15 am - 9:30 am",
+                        "activity": "Energizer Activity"
+                    },
+                    {
+                        "time": "9:30 am - 10:00 am",
+                        "activity": "Program Tools #4: The EL’s Checklist"
+                    },
+                    {
+                        "time": "10:00 am - 10:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "10:15 am - 11:00 am",
+                        "activity": "Activity #7: Interview Practice (Role Plays)"
+                    },
+                    {
+                        "time": "11:00 am - 11:15 am",
+                        "activity": "Coffee Break (15 Minutes)"
+                    },
+                    {
+                        "time": "11:15 am - 12:00 pm",
+                        "activity": "Activity #8: CRM Strategies & Best Practices"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch Break (1 Hour)"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Guest Speakers #2: James O’Connor from Innovation Within"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "COMPLETE HOMEWORK BEFORE 10:00 PM (CT) TONIGHT",
+                        "items": [
+                            "Enter in 50 contacts into your CRM"
+                        ]
+                    },
+                    {
+                        "title": "📝 COMPLETE HOMEWORK BEFORE SESSION 1 OF CORE (April 1, 2026)",
+                        "items": [
+                            "**L2M Bootcamp Workbook**: Complete and check off all tasks in your **EL Weekly Checklist**",
+                            "**Pre-Program Onboarding**: Upload U of M Photo/Video Consent form and [Complete Pre-Program Feedback form](https://forms.gle/z8xZRZpaKwnagwbT6) (before noon, March 20)",
+                            "Read [Talking to Humans](https://drive.google.com/file/d/1Z8M_bA8H799zXRX3yTf5LBVJoZcM7BGI/view?usp=sharing)"
+                        ]
+                    },
+                    {
+                        "title": "🎗️ REMINDERS",
+                        "items": [
+                            "Social Session #1 (Mandatory): **Thursday, March 19, 2026**",
+                            "Attendance Slot (Mandatory): **Wednesday, March 25, 2026**",
+                            "Weekly Drop-In Support Hours (Optional): [Thursdays 11am-2pm Zoom](https://umanitoba.zoom.us/j/8399047985?pwd=Yzhab1VJV2RRQmYvZ2t2bWZIelV1QT09)"
+                        ]
+                    },
+                    {
+                        "title": "FAMILIARIZE YOURSELF WITH",
+                        "items": [
+                            "Notion, Slack, Innovation Within, and your Team folder contents"
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": "Day 6",
+                "title": "Meet With L2M Prairies Ops Team",
+                "date": "Wednesday, March 18, 2026",
+                "time": "11:00 am - 3:45 pm",
+                "type": "session"
+            },
+            {
+                "day": "Day 7",
+                "title": "Social Session #1 (Mandatory)",
+                "date": "Thursday, March 19, 2026",
+                "time": "12:00 pm - 1:00 pm",
+                "type": "social"
+            }
+        ]
+    },
+    {
+        "phase": "Core",
+        "title": "Phase 2: Core Program",
+        "dates": "April 1 – May 20, 2026",
+        "status": "future",
+        "sessions": [
+            {
+                "week": "Week 1",
+                "title": "Customer Segments & Market Sizing",
+                "date": "Wednesday, April 1, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "description": "The workshop teaches participants to understand customer segments through value proposition lessons, customer discovery, and customer segmentation tools like personas, helping them find early adopters using the technology adoption curve and market sizing approaches, ultimately enabling teams to identify customer segments, create personas, and form testable hypotheses for early adopters. A Mentor Pool Q&A Session will follow lunch, with the discussion to include questions about customer segments & market sizing.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 10:20 am",
+                        "activity": "Scrum 1 - Customer Discovery. First Scrum to Review Introductions, Update/Present on Projects, Research, Etc."
+                    },
+                    {
+                        "time": "10:20 am - 10:30 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "10:30 am - 12:00 pm",
+                        "activity": "Workshop 1 - Customer Segments & Marketing Sizing"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Mentor Pool Q&A"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "Reminder: Use your EL Weekly Checklist and complete the tasks before each session",
+                        "items": []
+                    },
+                    {
+                        "title": "Recommended Readings and Videos",
+                        "items": [
+                            "Watch the following [video series](https://app.innovationwithin.com/course-videos) on the Innovation Within platform: Lecture 1.5A: Business Models and Customer Development & Lecture 1.5B: Business Models and Customer Development",
+                            "Read *The Startup Owner’s Manual*: pp. 14-51 ”Definition of a Business Model\"",
+                            "Read *Business Model Generation*: The Customer Development Model, pp. 22–84 [19-83] & ”Prepare for Customer Contacts,” pp. 195-199 [189-199]",
+                            "Read *Giff Constable Blog Post*: ”[12 Tips for Early Customer Development Interviews](http://giffconstable.com/2012/12/12-tips-for-early-customer-development-interviews-)”"
+                        ]
+                    }
+                ]
+            },
+            {
+                "week": "Week 2",
+                "title": "Customer Relationships & Channels",
+                "date": "Wednesday, April 8, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "description": "This session focuses on reaching target customers and utilizing channels to deliver the value proposition. It covers understanding the customer buying process, sales, distribution channels, and mapping the value chain and ecosystem for their solution. Ultimately, teams will gain insights into using customer discovery to understand the target customer's buying process and identify stakeholders in their ecosystem affecting solution adoption. A Mentor Pool Q&A Session will follow lunch, with the discussion to include questions about customer relationships & channels.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 10:20 am",
+                        "activity": "Scrum 2 Roundtable Discussion - Finding Customers"
+                    },
+                    {
+                        "time": "10:20 am - 10:30 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "10:30 am - 12:00 pm",
+                        "activity": "Workshop 2 - Customer Relationships & Channels"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Mentor Pool Q&A"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "Reminders",
+                        "items": [
+                            "Social Session #2 (attendance highly encouraged) is this Thursday, April 16, 2026, from 12:00 pm - 1:00 pm",
+                            "Use your **EL Weekly Checklist** and complete the tasks before each session"
+                        ]
+                    }
+                ]
+            },
+            {
+                "week": "Week 3",
+                "title": "Key Activities, Resources, & Partners",
+                "date": "Wednesday, April 15, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "description": "This session addresses the feasibility of business models for early-stage deep tech projects (customer discovery, testing solutions, and refining through customer engagement). It also covers product development, partner engagement, minimal viable product (MVP), validation, and common pitfalls. A Mentor Pool Q&A Session will follow lunch, with the discussion to include questions about key activities, resources, and partners.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 10:20 am",
+                        "activity": "Scrum 3 - Present Sprint Results"
+                    },
+                    {
+                        "time": "10:20 am - 10:30 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "10:30 am - 12:00 pm",
+                        "activity": "Workshop 3 - Key Activities, Resources, & Partners"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Mentor Pool Q&A"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "Reminders",
+                        "items": [
+                            "Use your **EL Weekly Checklist** and complete the tasks before each session"
+                        ]
+                    }
+                ]
+            },
+            {
+                "week": "Social",
+                "title": "Social Session #2",
+                "date": "Thursday, April 16, 2026",
+                "time": "12:00 pm - 1:00 pm"
+            },
+            {
+                "week": "Week 4",
+                "title": "Mid-Program Review",
+                "date": "Wednesday, April 22, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "description": "Teams review interview results and their progress, focusing on mid-program presentations. Qualitative data analysis techniques and the concept of pivoting are discussed to derive valuable insights. Teams gain knowledge on when to pivot or persevere and assess their performance relative to peers. A Mentor Pool Q&A Session will follow lunch, with the discussion to include questions about pivoting or persevering.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 10:00 am",
+                        "activity": "Workshop 4 - Pivot or Persevere"
+                    },
+                    {
+                        "time": "10:00 am - 10:10 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "10:10 am - 11:20 am",
+                        "activity": "Scrum 4 Presentations (Shuffled) - Mid-Term Review Presentations"
+                    },
+                    {
+                        "time": "11:20 am - 11:30 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "11:30 am - 12:00 pm",
+                        "activity": "Scrum 4 Roundtable Discussion (Regular Group) - Pivot or Persevere"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Mentor Pool Q&A"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "Reminder",
+                        "items": [
+                            "Use your **EL Weekly Checklist** and complete the tasks before each session"
+                        ]
+                    }
+                ]
+            },
+            {
+                "week": "Week 5",
+                "title": "Business Model Viability",
+                "date": "Wednesday, April 29, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "description": "This session covers business model viability, payment methods, customer engagement in determining pricing, and cost drivers for deep tech businesses. Teams gain insights into suitable revenue streams, using customer discovery to estimate pricing preferences, and understanding key costs during commercialization. A Mentor Pool Q&A Session will follow lunch, with the discussion to include questions about business model viability.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 10:20 am",
+                        "activity": "Scrum 5 - Sprint Results"
+                    },
+                    {
+                        "time": "10:20 am - 10:30 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "10:30 am - 12:00 pm",
+                        "activity": "Workshop 5 - Business Model Viability"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Mentor Pool Q&A"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "Reminder",
+                        "items": [
+                            "Use your **EL Weekly Checklist** and complete the tasks before each session"
+                        ]
+                    }
+                ]
+            },
+            {
+                "week": "Week 6",
+                "title": "Communicating Research & Pitching",
+                "date": "Wednesday, May 6, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "description": "This session focuses on how to communicate a value proposition and customer discovery results to various audiences. Strategies for how to communicate highly technical information to a non-specialist audience are provided, as well as best practices for creating a compelling story in the form of a pitch presentation. A Mentor Pool Q&A Session will follow lunch, with the discussion to include questions about communicating research & pitching.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 10:20 am",
+                        "activity": "Scrum 6 - Practice Pitch"
+                    },
+                    {
+                        "time": "10:20 am - 10:30 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "10:30 am - 12:00 pm",
+                        "activity": "Workshop 6 - Communicating Research & Pitching"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Mentor Pool Q&A"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "RESOURCES TO HELP YOU PREPARE FOR YOUR FINAL PRESENTATIONS",
+                        "items": [
+                            "[Instructions - Your Final Presentation](https://docs.google.com/document/d/1zTyc1YEDc3szcWqmSBEDcWR9Fd-oQOu_eRhOfQRyBlw/edit?usp=sharing)",
+                            "[Ten Slide Design Best Practices](https://docs.google.com/presentation/d/14Pg6cDqw0hOz3479pqYmWljVgvyrQ7hwL9JOKKpFV-A/edit?usp=sharing)",
+                            "[TEMPLATE Pitch Deck Slides To Use](https://docs.google.com/presentation/d/1D5t-PJIYvQibhRRPX8Nn6HRwo3gRUS_uxTLoJBndl60/edit?usp=sharing)",
+                            "[SAMPLE PRESENTATION - Past L2M Participant](https://docs.google.com/presentation/d/1Vm5ofj9be05ehElT5xjvjBc_Vdo5_dOIbpdsGOIE5mM/edit?usp=sharing)"
+                        ]
+                    },
+                    {
+                        "title": "Reminders",
+                        "items": [
+                            "Social Session #3 (attendance is highly encouraged) is on Thursday, May 14, 2026, from 12:00 pm - 1:00 pm",
+                            "Use your **EL Weekly Checklist** and complete the tasks before each session"
+                        ]
+                    }
+                ]
+            },
+            {
+                "week": "Week 7",
+                "title": "Fundraising",
+                "date": "Wednesday, May 13, 2026",
+                "time": "9:00 am - 2:00 pm",
+                "description": "This session provides a comprehensive overview of the fundraising process for commercializing deep tech. It covers funding sources, financing types, and steps to raise capital from investors. Participants will learn when to seek financing from various sources and gain awareness of available financing options and the overall fundraising process. This will be the final Mentor Pool Q&A Session, with the discussion to include questions about fundraising.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 10:20 am",
+                        "activity": "Scrum 7 - Sprint Results"
+                    },
+                    {
+                        "time": "10:20 am - 10:30 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "10:30 am - 11:00 am",
+                        "activity": "Workshop 7 - Fundraising"
+                    },
+                    {
+                        "time": "11:00 am - 12:00 pm",
+                        "activity": "Guest Speaker: TBD"
+                    },
+                    {
+                        "time": "12:00 pm - 1:00 pm",
+                        "activity": "Lunch"
+                    },
+                    {
+                        "time": "1:00 pm - 2:00 pm",
+                        "activity": "Mentor Pool Q&A"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "RESOURCES TO HELP YOU PREPARE FOR YOUR FINAL PRESENTATIONS",
+                        "items": [
+                            "[Instructions - Your Final Presentation](https://docs.google.com/document/d/1zTyc1YEDc3szcWqmSBEDcWR9Fd-oQOu_eRhOfQRyBlw/edit?usp=sharing)",
+                            "[Ten Slide Design Best Practices](https://docs.google.com/presentation/d/14Pg6cDqw0hOz3479pqYmWljVgvyrQ7hwL9JOKKpFV-A/edit?usp=sharing)",
+                            "[TEMPLATE Pitch Deck Slides To Use](https://docs.google.com/presentation/d/1D5t-PJIYvQibhRRPX8Nn6HRwo3gRUS_uxTLoJBndl60/edit?usp=sharing)",
+                            "[SAMPLE PRESENTATION - Past L2M Participant](https://docs.google.com/presentation/d/1Vm5ofj9be05ehElT5xjvjBc_Vdo5_dOIbpdsGOIE5mM/edit?usp=sharing)"
+                        ]
+                    },
+                    {
+                        "title": "Reminder",
+                        "items": [
+                            "Use your **EL Weekly Checklist** and complete the tasks before each session"
+                        ]
+                    }
+                ]
+            },
+            {
+                "week": "Social",
+                "title": "Social Session #3",
+                "date": "Thursday, May 14, 2026",
+                "time": "12:00 pm - 1:00 pm"
+            },
+            {
+                "week": "Week 8",
+                "title": "Final Presentation Practice + Next Steps",
+                "date": "Tuesday, May 19, 2026",
+                "time": "9:00 am - 12:00 pm",
+                "description": "**TODAY: Practice Run of Final Presentations with Facilitator Feedback**\n\n*(Be prepared to deliver your final presentation for Final Presentations and Closing Ceremonies: Wednesday, May 20, 2026)*\n\nTeams will do a practice run of their final presentations and receive feedback. This session will also cover the entrepreneurial ecosystem in Canada and the various resources that are available to you after the program. Ecosystem Partners will be present to share tips and advice for next steps you can take beyond this program, while Demetre Balaktsis will share information on the next steps within Lab2Market as well as will provide resources for our participants outside of Manitoba.",
+                "agenda": [
+                    {
+                        "time": "8:55 am - 9:00 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "9:00 am - 10:20 am",
+                        "activity": "Scrum 8 - Final Presentation Practice Run"
+                    },
+                    {
+                        "time": "10:20 am - 10:30 am",
+                        "activity": "Morning Break"
+                    },
+                    {
+                        "time": "10:30 am - 11:00 am",
+                        "activity": "Next Steps Session (Partners)"
+                    },
+                    {
+                        "time": "11:00 am - 11:30 am",
+                        "activity": "Next Steps Session (L2M)"
+                    },
+                    {
+                        "time": "11:30 am - 12:00 pm",
+                        "activity": "Final Meeting with Facilitators"
+                    },
+                    {
+                        "time": "12:00 pm",
+                        "activity": "End of Day"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "RESOURCES TO HELP YOU PREPARE FOR YOUR FINAL PRESENTATIONS",
+                        "items": [
+                            "[Instructions - Your Final Presentation](https://docs.google.com/document/d/1zTyc1YEDc3szcWqmSBEDcWR9Fd-oQOu_eRhOfQRyBlw/edit?usp=sharing)",
+                            "[Ten Slide Design Best Practices](https://docs.google.com/presentation/d/14Pg6cDqw0hOz3479pqYmWljVgvyrQ7hwL9JOKKpFV-A/edit?usp=sharing)",
+                            "[TEMPLATE Pitch Deck Slides To Use](https://docs.google.com/presentation/d/1D5t-PJIYvQibhRRPX8Nn6HRwo3gRUS_uxTLoJBndl60/edit?usp=sharing)",
+                            "[SAMPLE PRESENTATION - Past L2M Participant](https://docs.google.com/presentation/d/1Vm5ofj9be05ehElT5xjvjBc_Vdo5_dOIbpdsGOIE5mM/edit?usp=sharing)"
+                        ]
+                    },
+                    {
+                        "title": "Reminder",
+                        "items": [
+                            "Use your **EL Weekly Checklist** and complete the tasks before each session"
+                        ]
+                    }
+                ]
+            },
+            {
+                "week": "Final",
+                "title": "Final Presentations & Closing Ceremony",
+                "date": "Wednesday, May 20, 2026",
+                "time": "10:00 am - 1:30 pm",
+                "description": "L2M Team Final Presentations\n\n🎉 **This is a day of celebration - Cohort 7 Teams Presentations!** *This event will be an opportunity to celebrate your accomplishments with the rest of the Lab2Market community. From here, you will embark on the next phase of your journey backed by actionable data and assisted by new friends and support networks.*",
+                "agenda": [
+                    {
+                        "time": "10:00 am - 10:05 am",
+                        "activity": "Zoom Waiting Room Opens"
+                    },
+                    {
+                        "time": "10:05 am - 12:00 pm",
+                        "activity": "Final Presentations"
+                    },
+                    {
+                        "time": "12:00 pm - 12:10 pm",
+                        "activity": "Break"
+                    },
+                    {
+                        "time": "12:10 pm - 1:30 pm",
+                        "activity": "Final Presentations + Closing Remarks"
+                    }
+                ],
+                "todo": [
+                    {
+                        "title": "RESOURCES TO HELP YOU PREPARE FOR YOUR FINAL PRESENTATIONS",
+                        "items": [
+                            "[Instructions - Your Final Presentation](https://docs.google.com/document/d/1zTyc1YEDc3szcWqmSBEDcWR9Fd-oQOu_eRhOfQRyBlw/edit?usp=sharing)",
+                            "[Ten Slide Design Best Practices](https://docs.google.com/presentation/d/14Pg6cDqw0hOz3479pqYmWljVgvyrQ7hwL9JOKKpFV-A/edit?usp=sharing)",
+                            "[TEMPLATE Pitch Deck Slides To Use](https://docs.google.com/presentation/d/1D5t-PJIYvQibhRRPX8Nn6HRwo3gRUS_uxTLoJBndl60/edit?usp=sharing)",
+                            "[SAMPLE PRESENTATION - Past L2M Participant](https://docs.google.com/presentation/d/1Vm5ofj9be05ehElT5xjvjBc_Vdo5_dOIbpdsGOIE5mM/edit?usp=sharing)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

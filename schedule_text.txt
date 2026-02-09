@@ -1,0 +1,5361 @@
+%PDF-1.4
+1 0 obj
+/Type /Catalog
+/Version /1.4
+/Pages 2 0 R
+/Metadata 3 0 R
+/StructTreeRoot 4 0 R
+/MarkInfo 5 0 R
+/Lang (en)
+/ViewerPreferences 6 0 R
+endobj
+7 0 obj
+/Title (L2M Validate C7 Welcome Package )
+/Creator (Canva)
+/Producer (Canva)
+/CreationDate (D:20260204214508+00'00')
+/ModDate (D:20260204214507+00'00')
+/Keywords (DAG5Vk6jsz4,BAFp2ldEpk8,0)
+/Author (Lab2Market Prairies)
+endobj
+2 0 obj
+/Type /Pages
+/Kids [8 0 R 9 0 R 10 0 R 11 0 R 12 0 R]
+/Count 5
+endobj
+3 0 obj
+/Length 2703
+/Type /Metadata
+/Subtype /XML
+stream
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+      xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    dc:language="en"
+    pdf:Producer="Canva"
+    xmp:CreateDate="2026-02-04T21:45:08.306Z">
+    <dc:title>
+      <rdf:Alt>
+        <rdf:li xml:lang="x-default">L2M Validate C7 Welcome Package </rdf:li>
+        <rdf:li xml:lang="en">L2M Validate C7 Welcome Package </rdf:li>
+      </rdf:Alt>
+    </dc:title>
+  </rdf:Description>
+</rdf:RDF>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstream
+endobj
+4 0 obj
+/Type /StructTreeRoot
+/K [13 0 R]
+/ParentTree 14 0 R
+/ParentTreeNextKey 5
+endobj
+5 0 obj
+/Marked true
+/Suspects false
+endobj
+6 0 obj
+/Type /ViewerPreferences
+/DisplayDocTitle true
+endobj
+8 0 obj
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 15 0 R
+/XObject <<
+/X11 16 0 R
+/MediaBox [0.0 7.8299813 595.5 850.07996]
+/Contents 17 0 R
+/StructParents 0
+/Tabs /S
+/Parent 2 0 R
+/BleedBox [0.0 7.8299813 595.5 850.07996]
+/TrimBox [0.0 7.8299813 595.5 850.07996]
+/CropBox [0.0 7.8299813 595.5 850.07996]
+/Rotate 0
+/Annots []
+endobj
+9 0 obj
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 18 0 R
+/XObject <<
+/X10 19 0 R
+/MediaBox [0.0 7.8299813 595.5 850.07996]
+/Contents 20 0 R
+/StructParents 1
+/Tabs /S
+/Parent 2 0 R
+/BleedBox [0.0 7.8299813 595.5 850.07996]
+/TrimBox [0.0 7.8299813 595.5 850.07996]
+/CropBox [0.0 7.8299813 595.5 850.07996]
+/Rotate 0
+/Annots []
+endobj
+10 0 obj
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 21 0 R
+/XObject <<
+/X10 22 0 R
+/MediaBox [0.0 7.8299813 595.5 850.07996]
+/Contents 23 0 R
+/StructParents 2
+/Tabs /S
+/Parent 2 0 R
+/BleedBox [0.0 7.8299813 595.5 850.07996]
+/TrimBox [0.0 7.8299813 595.5 850.07996]
+/CropBox [0.0 7.8299813 595.5 850.07996]
+/Rotate 0
+/Annots []
+endobj
+11 0 obj
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 24 0 R
+/XObject <<
+/X10 25 0 R
+/MediaBox [0.0 7.8299813 595.5 850.07996]
+/Contents 26 0 R
+/StructParents 3
+/Tabs /S
+/Parent 2 0 R
+/BleedBox [0.0 7.8299813 595.5 850.07996]
+/TrimBox [0.0 7.8299813 595.5 850.07996]
+/CropBox [0.0 7.8299813 595.5 850.07996]
+/Rotate 0
+/Annots []
+endobj
+12 0 obj
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 27 0 R
+/XObject <<
+/X10 28 0 R
+/MediaBox [0.0 7.8299813 595.5 850.07996]
+/Contents 29 0 R
+/StructParents 4
+/Tabs /S
+/Parent 2 0 R
+/BleedBox [0.0 7.8299813 595.5 850.07996]
+/TrimBox [0.0 7.8299813 595.5 850.07996]
+/CropBox [0.0 7.8299813 595.5 850.07996]
+/Rotate 0
+/Annots []
+endobj
+13 0 obj
+/Type /StructElem
+/S /Document
+/P 4 0 R
+/K [30 0 R 31 0 R 32 0 R 33 0 R 34 0 R]
+endobj
+14 0 obj
+/Limits [0 4]
+/Nums [0 [35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R
+45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R]
+ 1 [55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R
+65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R]
+ 2 [75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R
+85 0 R 86 0 R 87 0 R]
+ 3 [88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R
+98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R
+108 0 R 109 0 R 110 0 R 111 0 R 112 0 R]
+ 4 [113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R
+123 0 R 124 0 R 125 0 R]
+endobj
+15 0 obj
+/G3 126 0 R
+endobj
+16 0 obj
+/Length 5726
+/Type /XObject
+/Subtype /Form
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 127 0 R
+/Font 128 0 R
+/BBox [0 0 2482 3510]
+/Group 129 0 R
+/Filter /FlateDecode
+stream
+`kW+E
+aRh%
+^Y=/
+[`6X
+\8y~
+o|cz
+LBE1'$
+4tF0cy
+B:?`
+cRI.
+85kTp
+){liK
+4IF7
+PY@ 
+~:s3
+)*J3 
+?/[3
+!OH:
+rlF:p
+@Qi?
+iv!O|
+y&xP
+cAZu
+(A^6
++KcJ
+!#NN
+>6-`
+y~_~kCd&
+G.Tri
+"mY\
+%HjR
+1\J#
+t5HD
+,Ayb
+}2T'
+4s9o
+)hp8
+u p4
+in'@
+V/T+
+?(+00
+~ uA
+~(xw
+`X7Zl
+-FC:
+<oK^
+.I@ZG
+3Q.dc
+`Jxe)
+(-mIK
+">9o-)
+~QS
+#|?!
+}=Nk5
+.(QY
+WTwj
+<MC2
+kyZ"
+[Siu
+TlDR
+#&;[
+BH/5
+S6/h$
+W8]g
+)CZSR
+OkDL
+T,[Q
+?nI+
+8~@J
+)->
+d;-K
+>Y]Q
+<AKGK[
+[;F7U(fU
+*dZK
+=SB{q
+r~</i
+endstream
+endobj
+17 0 obj
+/Length 127
+/Filter /FlateDecode
+stream
+endstream
+endobj
+18 0 obj
+/G3 130 0 R
+endobj
+19 0 obj
+/Length 6759
+/Type /XObject
+/Subtype /Form
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 131 0 R
+/Font 132 0 R
+/BBox [0 0 2482 3510]
+/Group 133 0 R
+/Filter /FlateDecode
+stream
+ENb.
+O*;c
+SqFEm
+cbT!g
+^;mO
+u*k%
+xyHm
+rufi
+TR:Y
+U>={:
+23|;
+J)6m1
+V#sB
+;7u=
+/Ny<
+SKPToZX{
+xi+E`
+d`1D &
+!h/d9^
+?J|Ao
+ Y*Db
+#*4qi
+G`lb\
+^k?B
+~dF\6
+L>8o
+%`TD
+9(W=v1x
+yQ8QR"
+\oa
+<30z
+Gd/o
+ximfo
+N>gU"
+:)2t
+p4]_o
+h4}*}
+NgI*
+PR8z
+vs`V
+vwZi{
+KFiO1 
+_:-'kUDh
+KTaKh5
+YP1z
+O)$G
+PtS+
+WSZUr
+9K<k
+C&E|
+eL)%
+LVTe
+W){m
+nJ1}2
+J/NA
+kN)[Gs`
+iMx8
+<PpB
+e<9f
+=ANw}
+3QY*
+?GrS+
+ja-_z
+"Ym!=
+U!nng
+L*C
+enX@
+[Wr{
+d.7r
+5}o3,
+5^@?
+kq*[H
+Tw<_
+endstream
+endobj
+20 0 obj
+/Length 127
+/Filter /FlateDecode
+stream
+endstream
+endobj
+21 0 obj
+/G3 134 0 R
+endobj
+22 0 obj
+/Length 7738
+/Type /XObject
+/Subtype /Form
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 135 0 R
+/Font 136 0 R
+/BBox [0 0 2482 3510]
+/Group 137 0 R
+/Filter /FlateDecode
+stream
+>{{k
+$n];
+S]U]
+P>9m
+O$uo7
+;CLk$*c
+Ca\S
+1SHZ
+OI6
+QKx\O
+6hk`
+}wvFZkS
+;nLP
+K\WO 
+KfG*
+Aa6}
+FxAk
+'et<
+~*9fFB|
+eQMDL
+ZE5D
+yloOxa
+a aF
+u:B6
+(0`Y
+tl7\x
+0#hB
+t3{a
+k}&GR]
+'cXc
+LM`p
+.\95
+cBM7
+H{]pp1
+MyK3
+T!X_]
+F+c5
+R`1q
+XE T
+B25?
+s'>t
+;N%uT
+uul3
+dm2g
+pPXl
+Wr_,lB
+JNUp{ew
+Ke[+
+y.(PL
+39#C!E
+^YVf]
+f%1(D+a%
+qLZ
+>'Bj%
+LL.F
+IVQu:
+.tMS6<
+D$^N
+gaFS7bP
+_V|7
+y|c9
+&!Ca`Ysa
+G}0x$9am /v
+mS.%
+gTAJ;
+/9.v
+zrBA
+rrz|
+n0iU
+tKP.N
+s_JUmQ
+=uN+
+c8y$x
+&m'
+I2Ri
+_*]F
+h CEE
+sY;T
+m"Id
+97d6Kn
+F|Gs
+@7g=
+o}sYr
+dKa:
+l)@'[
+u5Hkn
+"3}j
+{m%k+:
+ki[*jr
+r!7{=
+Kp*s
+O[(!:+
+U^VZ["
+eFoXc
+4N+c
+EEm.
+ax1F
+#zcx
+EhV9
+5g4Eqc
+endstream
+endobj
+23 0 obj
+/Length 127
+/Filter /FlateDecode
+stream
+endstream
+endobj
+24 0 obj
+/G3 138 0 R
+endobj
+25 0 obj
+/Length 4845
+/Type /XObject
+/Subtype /Form
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 139 0 R
+/Font 140 0 R
+/BBox [0 0 2482 3510]
+/Group 141 0 R
+/Filter /FlateDecode
+stream
+w>x{w
+cV.Z2
+w{zT^[
+Ikw 
+p\6?
+Y+Y7
+);8a^#g^;JS
+'MGn
+dT`M
+<|xV
+e9Y*
+ab&_
+9!xb
+m73D"KZo
+5)c|t
+K,p~
+YjfA6{
+W_C0
+t:r0
+,UH!
+`|c&
+`I$6
+qM`N
+"\#s
+nhZX
+{_.b
+?@HF
+e[Uv
+aTd>N
+60wa(
+q%nR
+=<LK
+cZJa
+2bZ@A
+4STtRf
+NdEq
+(YPk
+E0<`l
+FvAFvw
+SE,A%m)
+pE/T
+'lPRz<D
+bn5F
+X(Mb
+T3z|lk
+ ,z+
+xJWV
+*D=PsuDS3
+vA.?DSA6
+6y$@
+!,YA
+l)xu
+U},cXyJ
+lI'T
+|[y\
+]VYk]
+'?<H#
+=,BlI
+Lp"u
+,+c(
+Re_V
+ejaE
+#3?z<+
+9u%\vY
+@LA$
+ Bpl6
+nB8.G
+#ulcM8.Cn
+jm2ul
+cwS1*
+&eMiA
+g?()
+7.ca
+%4\k
+uD'.
+endstream
+endobj
+26 0 obj
+/Length 127
+/Filter /FlateDecode
+stream
+endstream
+endobj
+27 0 obj
+/G3 142 0 R
+endobj
+28 0 obj
+/Length 2955
+/Type /XObject
+/Subtype /Form
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState 143 0 R
+/Font 144 0 R
+/BBox [0 0 2482 3510]
+/Group 145 0 R
+/Filter /FlateDecode
+stream
+k{{o
+~3/60
+Box`
+6gwx
+Vmv@
+`!>7
+EK^&
+&)X 8H
+'G8-
+(X9$ 
+0,w*e
+V?}w
+=qiNroZ\
+@1[ozB
+DX-(
+|qRS
+j|(lY
+I[~W
+KUIR
+WHK}YV`"$
+&=3Y
+gz&`
+f}}
+v^ZT
+A;[$
+8'-[
+ZcWgg9,K
+o>Je+
+1^q>
+jg1+a
++nUYb9R
+z^+O
+H!im
+CFB^
+$RN[O
+;CDE
+`mFEI
+endstream
+endobj
+29 0 obj
+/Length 127
+/Filter /FlateDecode
+stream
+endstream
+endobj
+30 0 obj
+/Type /StructElem
+/S /Part
+/P 13 0 R
+/Pg 8 0 R
+/K [52 0 R 53 0 R 146 0 R 54 0 R]
+endobj
+31 0 obj
+/Type /StructElem
+/S /Part
+/P 13 0 R
+/Pg 9 0 R
+/K [66 0 R 67 0 R 147 0 R 69 0 R 148 0 R 68 0 R]
+endobj
+32 0 obj
+/Type /StructElem
+/S /Part
+/P 13 0 R
+/Pg 10 0 R
+/K [85 0 R 87 0 R 149 0 R 86 0 R]
+endobj
+33 0 obj
+/Type /StructElem
+/S /Part
+/P 13 0 R
+/Pg 11 0 R
+/K [110 0 R 111 0 R 150 0 R 112 0 R]
+endobj
+34 0 obj
+/Type /StructElem
+/S /Part
+/P 13 0 R
+/Pg 12 0 R
+/K [123 0 R 124 0 R 151 0 R 125 0 R]
+endobj
+35 0 obj
+/Type /StructElem
+/S /H3
+/P 152 0 R
+/T (Dates)
+/E (Dates)
+/Pg 8 0 R
+/K [0]
+endobj
+36 0 obj
+/Type /StructElem
+/S /H3
+/P 153 0 R
+/T (Programming)
+/E (Programming)
+/Pg 8 0 R
+/K [1]
+endobj
+37 0 obj
+/Type /StructElem
+/S /H3
+/P 154 0 R
+/T (March 9, 9 AM - 12 PM)
+/E (March 9, 9 AM - 12 PM)
+/Pg 8 0 R
+/K [2]
+endobj
+38 0 obj
+/Type /StructElem
+/S /H3
+/P 155 0 R
+/T <FEFF00570065006C0063006F006D006500200043006500720065006D006F006E007900A0>
+/E <FEFF00570065006C0063006F006D006500200043006500720065006D006F006E007900A0>
+/Pg 8 0 R
+/K [3]
+endobj
+39 0 obj
+/Type /StructElem
+/S /H3
+/P 156 0 R
+/T (The welcome ceremony will welcome all participants, highlight why Lab2Market exists, program expectations, an entrepreneurial host an Alumni Fireside chat, and let entrepreneur leads \(ELs\) briefly introduce themselves. This evening, ELs will watch a recorded lecture to prepare for the next day. )
+/E (The welcome ceremony will welcome all participants, highlight why Lab2Market exists, program expectations, an entrepreneurial host an Alumni Fireside chat, and let entrepreneur leads \(ELs\) briefly introduce themselves. This evening, ELs will watch a recorded lecture to prepare for the next day. )
+/Pg 8 0 R
+/K [4]
+endobj
+40 0 obj
+/Type /StructElem
+/S /H3
+/P 157 0 R
+/T (March 10, 9 AM - 2 PM)
+/E (March 10, 9 AM - 2 PM)
+/Pg 8 0 R
+/K [5]
+endobj
+41 0 obj
+/Type /StructElem
+/S /H3
+/P 158 0 R
+/T (Customers & Value - Rosalie Harms)
+/E (Customers & Value - Rosalie Harms)
+/Pg 8 0 R
+/K [6]
+endobj
+42 0 obj
+/Type /StructElem
+/S /H3
+/P 159 0 R
+/T (ELs will review how to evaluate project risk using Osterwalder's Business Model Canvas \(BMC\), then will engage in activities on customer segments and value propositions. The program tools Notion and Google Drive will be introduced, then our guest speaker, Andrew Tse will demystify the topic of Intellectual Property and allow for a Q&A period to support ELs. This evening, ELs will watch a recorded lecture and complete homework to prepare for the next day.)
+/E (ELs will review how to evaluate project risk using Osterwalder's Business Model Canvas \(BMC\), then will engage in activities on customer segments and value propositions. The program tools Notion and Google Drive will be introduced, then our guest speaker, Andrew Tse will demystify the topic of Intellectual Property and allow for a Q&A period to support ELs. This evening, ELs will watch a recorded lecture and complete homework to prepare for the next day.)
+/Pg 8 0 R
+/K [7]
+endobj
+43 0 obj
+/Type /StructElem
+/S /H3
+/P 160 0 R
+/T (March 11, 9 AM - 2 PM)
+/E (March 11, 9 AM - 2 PM)
+/Pg 8 0 R
+/K [8]
+endobj
+44 0 obj
+/Type /StructElem
+/S /H3
+/P 161 0 R
+/T (Outreach & Networking - Chris Street)
+/E (Outreach & Networking - Chris Street)
+/Pg 8 0 R
+/K [9]
+endobj
+45 0 obj
+/Type /StructElem
+/S /H3
+/P 162 0 R
+/T (ELs will review how to continue to assess the risk of their projects. The program tools Customer Relationship Management \(CRM\) and Innovation Within will be touched on. ELs will engage in activities to gain skills in creating outreach scripts and networking. The mentors will be introduced to the ELs. This evening, ELs will watch a recorded lecture and complete homework to prepare for the next day.)
+/E (ELs will review how to continue to assess the risk of their projects. The program tools Customer Relationship Management \(CRM\) and Innovation Within will be touched on. ELs will engage in activities to gain skills in creating outreach scripts and networking. The mentors will be introduced to the ELs. This evening, ELs will watch a recorded lecture and complete homework to prepare for the next day.)
+/Pg 8 0 R
+/K [10]
+endobj
+46 0 obj
+/Type /StructElem
+/S /H3
+/P 163 0 R
+/T (March 12, 9 AM - 2 PM)
+/E (March 12, 9 AM - 2 PM)
+/Pg 8 0 R
+/K [11]
+endobj
+47 0 obj
+/Type /StructElem
+/S /H3
+/P 164 0 R
+/T (Value Proposition Canvas & Interview Questions - Henry Floreal)
+/E (Value Proposition Canvas & Interview Questions - Henry Floreal)
+/Pg 8 0 R
+/K [12]
+endobj
+48 0 obj
+/Type /StructElem
+/S /H3
+/P 165 0 R
+/T (ELs will review market research best practices. The program tool, Slack, will be covered. CS & VPs will continue to be explored through activities on creating customer profiles and value maps, and crafting scripts and interview questions for your stakeholders. ELs will meet with their assigned facilitator to go over the program expectations \(e.g., deliverables, facilitator office hours, scrums, etc.\) to help prepare ELs for success. This evening, ELs will watch a recorded lecture and complete homework to prepare for the next day.)
+/E (ELs will review market research best practices. The program tool, Slack, will be covered. CS & VPs will continue to be explored through activities on creating customer profiles and value maps, and crafting scripts and interview questions for your stakeholders. ELs will meet with their assigned facilitator to go over the program expectations \(e.g., deliverables, facilitator office hours, scrums, etc.\) to help prepare ELs for success. This evening, ELs will watch a recorded lecture and complete homework to prepare for the next day.)
+/Pg 8 0 R
+/K [13]
+endobj
+49 0 obj
+/Type /StructElem
+/S /P
+/P 166 0 R
+/E (March 13, 9 AM - 2 PM)
+/Pg 8 0 R
+/K [14]
+endobj
+50 0 obj
+/Type /StructElem
+/S /H3
+/P 167 0 R
+/T ( Interview Practice & CRM's - David Yee)
+/E ( Interview Practice & CRM's - David Yee)
+/Pg 8 0 R
+/K [15]
+endobj
+51 0 obj
+/Type /StructElem
+/S /H3
+/P 168 0 R
+/T <454C732077696C6C207265766965772076616C75652070726F706F736974696F6E732E205468652070726F6772616D20746F6F6C20454C205765656B6C7920436865636B6C6973742077696C6C20626520696E74726F64756365642E20454C732077696C6C20656E6761676520696E206163746976697469657320746F2075736520746865207175657374696F6E73207363726970747320746F20707261637469636520696E74657276696577696E6720776974682074686569722070656572732C2061732077656C6C2061732073747261746567696573206F6E207468652043524D2E204A616D6573204F90436F6E6E6F722C2066726F6D20496E6E6F766174696F6E2057697468696E2077696C6C2064656D6F6E73747261746520686F7720746F207573652074686520424D4320616E64206F746865722066656174757265732E2054686973206576656E696E672C20454C732077696C6C20636F6D706C65746520686F6D65776F726B2E>
+/E <454C732077696C6C207265766965772076616C75652070726F706F736974696F6E732E205468652070726F6772616D20746F6F6C20454C205765656B6C7920436865636B6C6973742077696C6C20626520696E74726F64756365642E20454C732077696C6C20656E6761676520696E206163746976697469657320746F2075736520746865207175657374696F6E73207363726970747320746F20707261637469636520696E74657276696577696E6720776974682074686569722070656572732C2061732077656C6C2061732073747261746567696573206F6E207468652043524D2E204A616D6573204F90436F6E6E6F722C2066726F6D20496E6E6F766174696F6E2057697468696E2077696C6C2064656D6F6E73747261746520686F7720746F207573652074686520424D4320616E64206F746865722066656174757265732E2054686973206576656E696E672C20454C732077696C6C20636F6D706C65746520686F6D65776F726B2E>
+/Pg 8 0 R
+/K [16]
+endobj
+52 0 obj
+/Type /StructElem
+/S /H1
+/P 30 0 R
+/T (Pre-Program Syllabus Calendar)
+/E (Pre-Program Syllabus Calendar)
+/Pg 8 0 R
+/K [17]
+endobj
+53 0 obj
+/Type /StructElem
+/S /H2
+/P 30 0 R
+/T (Bootcamp | March 9 - 13,  2026)
+/E (Bootcamp | March 9 - 13,  2026)
+/Pg 8 0 R
+/K [18]
+endobj
+54 0 obj
+/Type /StructElem
+/S /P
+/P 30 0 R
+/E (10)
+/Pg 8 0 R
+/K [19]
+endobj
+55 0 obj
+/Type /StructElem
+/S /H3
+/P 169 0 R
+/T (Dates)
+/E (Dates)
+/Pg 9 0 R
+/K [0]
+endobj
+56 0 obj
+/Type /StructElem
+/S /H3
+/P 170 0 R
+/T (Programming)
+/E (Programming)
+/Pg 9 0 R
+/K [1]
+endobj
+57 0 obj
+/Type /StructElem
+/S /H3
+/P 171 0 R
+/T <4D6172636820313620852032302C203230323620284461746520262054696D652054424420427920466163696C697461746F7229>
+/E <4D6172636820313620852032302C203230323620284461746520262054696D652054424420427920466163696C697461746F7229>
+/Pg 9 0 R
+/K [2]
+endobj
+58 0 obj
+/Type /StructElem
+/S /H3
+/P 172 0 R
+/T (Weekly Facilitator Office Hours)
+/E (Weekly Facilitator Office Hours)
+/Pg 9 0 R
+/K [3]
+endobj
+59 0 obj
+/Type /StructElem
+/S /H3
+/P 173 0 R
+/T (ELs will meet with their assigned facilitator to check in about their customer discovery process, collaborate on solutions for any roadblocks, and to ask any other questions. Facilitators can provide guidance on customer outreach strategies as well as preparing for ELs first scrum presentation. )
+/E (ELs will meet with their assigned facilitator to check in about their customer discovery process, collaborate on solutions for any roadblocks, and to ask any other questions. Facilitators can provide guidance on customer outreach strategies as well as preparing for ELs first scrum presentation. )
+/Pg 9 0 R
+/K [4]
+endobj
+60 0 obj
+/Type /StructElem
+/S /H3
+/P 174 0 R
+/T <54687572736461792C204D617263682031392C20323032362031323A303020706D208520313A303020706D>
+/E <54687572736461792C204D617263682031392C20323032362031323A303020706D208520313A303020706D>
+/Pg 9 0 R
+/K [5]
+endobj
+61 0 obj
+/Type /StructElem
+/S /H3
+/P 175 0 R
+/T (Social Session \(Mandatory\))
+/E (Social Session \(Mandatory\))
+/Pg 9 0 R
+/K [6]
+endobj
+62 0 obj
+/Type /StructElem
+/S /H3
+/P 176 0 R
+/T (Our Program Manager, Demetre Balaktsis, will host this session. This is a particularly important informal social event to let teams get to know each other, the instructors, and the L2M Ops team. As Lab2Market cohorts continue to be run virtually, this is a crucial session that we hold as a bi-weekly drop-in. )
+/E (Our Program Manager, Demetre Balaktsis, will host this session. This is a particularly important informal social event to let teams get to know each other, the instructors, and the L2M Ops team. As Lab2Market cohorts continue to be run virtually, this is a crucial session that we hold as a bi-weekly drop-in. )
+/Pg 9 0 R
+/K [7]
+endobj
+63 0 obj
+/Type /StructElem
+/S /H3
+/P 177 0 R
+/T <5468757273646179202D204D617263682032362C2032303236202D2031313A303020616D208520323A303020706D>
+/E <5468757273646179202D204D617263682032362C2032303236202D2031313A303020616D208520323A303020706D>
+/Pg 9 0 R
+/K [8]
+endobj
+64 0 obj
+/Type /StructElem
+/S /H3
+/P 178 0 R
+/T (Meet with the L2M Ops Team  Drop-In Support Hours \(First is Mandatory\))
+/E (Meet with the L2M Ops Team  Drop-In Support Hours \(First is Mandatory\))
+/Pg 9 0 R
+/K [9]
+endobj
+65 0 obj
+/Type /StructElem
+/S /H3
+/P 179 0 R
+/T (Demetre and JP will meet with each EL for 10 minutes \(will schedule in advance\) to get to know each other and answer questions to ensure the expectations of the program are understood and to establish a rapport so that ELs feel confident to reach out if they require support throughout the program. )
+/E (Demetre and JP will meet with each EL for 10 minutes \(will schedule in advance\) to get to know each other and answer questions to ensure the expectations of the program are understood and to establish a rapport so that ELs feel confident to reach out if they require support throughout the program. )
+/Pg 9 0 R
+/K [10]
+endobj
+66 0 obj
+/Type /StructElem
+/S /H1
+/P 31 0 R
+/T (Pre-Program Syllabus Calendar)
+/E (Pre-Program Syllabus Calendar)
+/Pg 9 0 R
+/K [11]
+endobj
+67 0 obj
+/Type /StructElem
+/S /H2
+/P 31 0 R
+/T (Between Bootcamp & Core | March 16 - March 27, 2026)
+/E (Between Bootcamp & Core | March 16 - March 27, 2026)
+/Pg 9 0 R
+/K [12]
+endobj
+68 0 obj
+/Type /StructElem
+/S /P
+/P 31 0 R
+/E (11)
+/Pg 9 0 R
+/K [13]
+endobj
+69 0 obj
+/Type /StructElem
+/S /H3
+/P 31 0 R
+/T (During the Pre-Program \(between Bootcamp and Core\), ELs will: )
+/E (During the Pre-Program \(between Bootcamp and Core\), ELs will: )
+/Pg 9 0 R
+/K [14]
+endobj
+70 0 obj
+/Type /StructElem
+/S /P
+/P 180 0 R
+/E (attend the first mandatory Drop-In Support Hours and first mandatory Social Session)
+/Pg 9 0 R
+/K [15]
+endobj
+71 0 obj
+/Type /StructElem
+/S /P
+/P 181 0 R
+/E (meet with their facilitator for 30 minutes \(Weekly Facilitator Office Hours\) between March 16 - 20, 2026. The time and date TBD.)
+/Pg 9 0 R
+/K [16]
+endobj
+72 0 obj
+/Type /StructElem
+/S /P
+/P 182 0 R
+/E (start conducting their primary market research \(input and reach out to 300 stakeholders\) and completing 10 interviews before the start of the Core Program)
+/Pg 9 0 R
+/K [17]
+endobj
+73 0 obj
+/Type /StructElem
+/S /P
+/P 183 0 R
+/E (complete assigned homework \(e.g., assigned readings and videos, prepare Scrum 1 presentation ready to deliver on Core Session 1\))
+/Pg 9 0 R
+/K [18]
+endobj
+74 0 obj
+/Type /StructElem
+/S /P
+/P 184 0 R
+/E (familiarize themselves with the Tech Stack)
+/Pg 9 0 R
+/K [19]
+endobj
+75 0 obj
+/Type /StructElem
+/S /P
+/P 185 0 R
+/E (Dates)
+/Pg 10 0 R
+/K [0]
+endobj
+76 0 obj
+/Type /StructElem
+/S /P
+/P 186 0 R
+/E (Programming)
+/Pg 10 0 R
+/K [1]
+endobj
+77 0 obj
+/Type /StructElem
+/S /P
+/P 187 0 R
+/E (Wednesday, April 1, 2026)
+/Pg 10 0 R
+/K [2]
+endobj
+78 0 obj
+/Type /StructElem
+/S /P
+/P 187 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 10 0 R
+/K [3]
+endobj
+79 0 obj
+/Type /StructElem
+/S /P
+/P 188 0 R
+/E (Session 1 - Customer Segments & Marketing Sizing)
+/Pg 10 0 R
+/K [4]
+endobj
+80 0 obj
+/Type /StructElem
+/S /P
+/P 189 0 R
+/E (The workshop teaches ELs to understand customer segments through value proposition lessons, customer discovery, and customer segmentation tools like personas, helping them find early adopters using the technology adoption curve and market sizing approaches, ultimately enabling ELs to identify customer segments, create personas, and form testable hypotheses for early adopters. )
+/Pg 10 0 R
+/K [5]
+endobj
+81 0 obj
+/Type /StructElem
+/S /P
+/P 190 0 R
+/E (Wednesday, April 8, 2026)
+/Pg 10 0 R
+/K [6]
+endobj
+82 0 obj
+/Type /StructElem
+/S /P
+/P 190 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 10 0 R
+/K [7]
+endobj
+83 0 obj
+/Type /StructElem
+/S /P
+/P 191 0 R
+/E (Session 2 - Customer Relationships & Channels)
+/Pg 10 0 R
+/K [8]
+endobj
+84 0 obj
+/Type /StructElem
+/S /P
+/P 192 0 R
+/E (This session focuses on reaching target customers and utilizing channels to deliver the value proposition. It covers understanding the customer buying process, sales, distribution channels, and mapping the value chain and ecosystem for their solution. Ultimately, ELs will gain insights into using customer discovery to understand the target customer's buying process and identify stakeholders in their ecosystem affecting solution adoption.)
+/Pg 10 0 R
+/K [9]
+endobj
+85 0 obj
+/Type /StructElem
+/S /P
+/P 32 0 R
+/E ( Core Program Syllabus Calendar)
+/Pg 10 0 R
+/K [10]
+endobj
+86 0 obj
+/Type /StructElem
+/S /P
+/P 32 0 R
+/E (12)
+/Pg 10 0 R
+/K [11]
+endobj
+87 0 obj
+/Type /StructElem
+/S /P
+/P 32 0 R
+/E ( April 1 - May 20 - Weeks 1 & 2 )
+/Pg 10 0 R
+/K [12]
+endobj
+88 0 obj
+/Type /StructElem
+/S /P
+/P 193 0 R
+/E (Dates)
+/Pg 11 0 R
+/K [0]
+endobj
+89 0 obj
+/Type /StructElem
+/S /P
+/P 194 0 R
+/E (Programming)
+/Pg 11 0 R
+/K [1]
+endobj
+90 0 obj
+/Type /StructElem
+/S /P
+/P 195 0 R
+/E (Wednesday, April 15, 2026)
+/Pg 11 0 R
+/K [2]
+endobj
+91 0 obj
+/Type /StructElem
+/S /P
+/P 195 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 11 0 R
+/K [3]
+endobj
+92 0 obj
+/Type /StructElem
+/S /P
+/P 196 0 R
+/E (Session 3 - Key Activities, Resources, & Partners)
+/Pg 11 0 R
+/K [4]
+endobj
+93 0 obj
+/Type /StructElem
+/S /P
+/P 197 0 R
+/E (This session addresses the feasibility of business models for early-stage deep tech projects \(customer discovery, testing solutions, and refining through customer engagement\). It also covers product development, partner engagement, minimal viable product \(MVP\), validation, and common pitfalls.)
+/Pg 11 0 R
+/K [5]
+endobj
+94 0 obj
+/Type /StructElem
+/S /P
+/P 198 0 R
+/E (Wednesday, April 22, 2026)
+/Pg 11 0 R
+/K [6]
+endobj
+95 0 obj
+/Type /StructElem
+/S /P
+/P 198 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 11 0 R
+/K [7]
+endobj
+96 0 obj
+/Type /StructElem
+/S /P
+/P 199 0 R
+/E (Session 4 - Mid-Program Review)
+/Pg 11 0 R
+/K [8]
+endobj
+97 0 obj
+/Type /StructElem
+/S /P
+/P 200 0 R
+/E (ELs review interview results and their progress, focusing on mid-program presentations. Qualitative data analysis techniques and the concept of pivoting are discussed to derive valuable insights. ELs gain knowledge on when to pivot or persevere and assess their performance relative to peers.)
+/Pg 11 0 R
+/K [9]
+endobj
+98 0 obj
+/Type /StructElem
+/S /P
+/P 201 0 R
+/E (Wednesday, April 29, 2026)
+/Pg 11 0 R
+/K [10]
+endobj
+99 0 obj
+/Type /StructElem
+/S /P
+/P 201 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 11 0 R
+/K [11]
+endobj
+100 0 obj
+/Type /StructElem
+/S /P
+/P 202 0 R
+/E (Session 5 - Business Model Viability)
+/Pg 11 0 R
+/K [12]
+endobj
+101 0 obj
+/Type /StructElem
+/S /P
+/P 203 0 R
+/E (This session covers business model viability, payment methods, customer engagement in determining pricing, and cost drivers for deep tech businesses. ELs gain insights into suitable revenue streams, using customer discovery to estimate pricing preferences, and understanding key costs during commercialization.)
+/Pg 11 0 R
+/K [13]
+endobj
+102 0 obj
+/Type /StructElem
+/S /P
+/P 204 0 R
+/E (Wednesday, May 6, 2026)
+/Pg 11 0 R
+/K [14]
+endobj
+103 0 obj
+/Type /StructElem
+/S /P
+/P 204 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 11 0 R
+/K [15]
+endobj
+104 0 obj
+/Type /StructElem
+/S /P
+/P 205 0 R
+/E (Session 6 - Communicating Research & Pitching)
+/Pg 11 0 R
+/K [16]
+endobj
+105 0 obj
+/Type /StructElem
+/S /P
+/P 206 0 R
+/E (This session focuses on how to communicate a value proposition and customer discovery results to various audiences. Strategies for how to communicate highly technical information to a non-specialist audience are provided, as well as best practices for creating a compelling story in the form of a pitch presentation.)
+/Pg 11 0 R
+/K [17]
+endobj
+106 0 obj
+/Type /StructElem
+/S /P
+/P 207 0 R
+/E (Wednesday, May 13, 2026)
+/Pg 11 0 R
+/K [18]
+endobj
+107 0 obj
+/Type /StructElem
+/S /P
+/P 207 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 11 0 R
+/K [19]
+endobj
+108 0 obj
+/Type /StructElem
+/S /P
+/P 208 0 R
+/E (Session 7 - Fundraising)
+/Pg 11 0 R
+/K [20]
+endobj
+109 0 obj
+/Type /StructElem
+/S /P
+/P 209 0 R
+/E (This session provides a comprehensive overview of the fundraising process for commercializing deep tech. It covers funding sources, financing types, and steps to raise capital from investors. ELs will learn when to seek financing from various sources and gain awareness of available financing options and the overall fundraising process.)
+/Pg 11 0 R
+/K [21]
+endobj
+110 0 obj
+/Type /StructElem
+/S /H1
+/P 33 0 R
+/T ( Core Program Syllabus Calendar)
+/E ( Core Program Syllabus Calendar)
+/Pg 11 0 R
+/K [22]
+endobj
+111 0 obj
+/Type /StructElem
+/S /H2
+/P 33 0 R
+/T (Weeks 3 - 7)
+/E (Weeks 3 - 7)
+/Pg 11 0 R
+/K [23]
+endobj
+112 0 obj
+/Type /StructElem
+/S /P
+/P 33 0 R
+/E (13)
+/Pg 11 0 R
+/K [24]
+endobj
+113 0 obj
+/Type /StructElem
+/S /P
+/P 210 0 R
+/E (Dates)
+/Pg 12 0 R
+/K [0]
+endobj
+114 0 obj
+/Type /StructElem
+/S /P
+/P 211 0 R
+/E (Programming)
+/Pg 12 0 R
+/K [1]
+endobj
+115 0 obj
+/Type /StructElem
+/S /P
+/P 212 0 R
+/E (Tuesday, May 19, 2026)
+/Pg 12 0 R
+/K [2]
+endobj
+116 0 obj
+/Type /StructElem
+/S /P
+/P 212 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 12 0 R
+/K [3]
+endobj
+117 0 obj
+/Type /StructElem
+/S /P
+/P 213 0 R
+/E (Session 8 - Final Presentation Practice + Next Steps Session)
+/Pg 12 0 R
+/K [4]
+endobj
+118 0 obj
+/Type /StructElem
+/S /P
+/P 214 0 R
+/E (ELs will do a practice run of their final presentations and receive feedback. This session will also cover the entrepreneurial ecosystem in Canada and the various resources that are available to you after the program. Guests from various programs will be present to share tips and advice for optional support for your next steps.)
+/Pg 12 0 R
+/K [5]
+endobj
+119 0 obj
+/Type /StructElem
+/S /P
+/P 215 0 R
+/E (Wednesday, May 20, 2026)
+/Pg 12 0 R
+/K [6]
+endobj
+120 0 obj
+/Type /StructElem
+/S /P
+/P 215 0 R
+/E <20393A303020616D208520323A303020706D>
+/Pg 12 0 R
+/K [7]
+endobj
+121 0 obj
+/Type /StructElem
+/S /P
+/P 216 0 R
+/E (Week 8 - FINAL PRESENTATIONS + CLOSING CEREMONY)
+/Pg 12 0 R
+/K [8]
+endobj
+122 0 obj
+/Type /StructElem
+/S /P
+/P 217 0 R
+/E <54686973206576656E742077696C6C20626520616E206F70706F7274756E69747920746F2063656C65627261746520454C9073206163636F6D706C6973686D656E74732077697468207468652072657374206F6620746865204C6162324D61726B657420636F6D6D756E6974792E2048616C662074686520454C732077696C6C2070726573656E7420647572696E6720746865206D6F726E696E672C207468656E20746865206F746865722068616C6620647572696E67207468652061667465726E6F6F6E2E2046726F6D20686572652C20454C732077696C6C20656D6261726B206F6E20746865206E657874207068617365206F66207468656972206A6F75726E6579206261636B656420627920616374696F6E61626C65206461746120616E64206173736973746564206279206E657720667269656E647320616E6420737570706F7274206E6574776F726B732E20>
+/Pg 12 0 R
+/K [9]
+endobj
+123 0 obj
+/Type /StructElem
+/S /H1
+/P 34 0 R
+/T ( Core Program Syllabus Calendar)
+/E ( Core Program Syllabus Calendar)
+/Pg 12 0 R
+/K [10]
+endobj
+124 0 obj
+/Type /StructElem
+/S /H2
+/P 34 0 R
+/T (Week 8)
+/E (Week 8)
+/Pg 12 0 R
+/K [11]
+endobj
+125 0 obj
+/Type /StructElem
+/S /P
+/P 34 0 R
+/E (14)
+/Pg 12 0 R
+/K [12]
+endobj
+126 0 obj
+/ca 1
+/BM /Normal
+endobj
+127 0 obj
+/G3 126 0 R
+/G8 218 0 R
+endobj
+128 0 obj
+/F4 219 0 R
+/F5 220 0 R
+/F6 221 0 R
+/F7 222 0 R
+/F9 223 0 R
+/F10 224 0 R
+endobj
+129 0 obj
+/Type /Group
+/S /Transparency
+/I true
+endobj
+130 0 obj
+/ca 1
+/BM /Normal
+endobj
+131 0 obj
+/G3 130 0 R
+/G7 225 0 R
+endobj
+132 0 obj
+/F4 226 0 R
+/F5 227 0 R
+/F6 228 0 R
+/F8 229 0 R
+/F9 230 0 R
+endobj
+133 0 obj
+/Type /Group
+/S /Transparency
+/I true
+endobj
+134 0 obj
+/ca 1
+/BM /Normal
+endobj
+135 0 obj
+/G3 134 0 R
+/G7 231 0 R
+endobj
+136 0 obj
+/F4 232 0 R
+/F5 233 0 R
+/F6 234 0 R
+/F8 235 0 R
+/F9 236 0 R
+endobj
+137 0 obj
+/Type /Group
+/S /Transparency
+/I true
+endobj
+138 0 obj
+/ca 1
+/BM /Normal
+endobj
+139 0 obj
+/G3 138 0 R
+/G7 237 0 R
+endobj
+140 0 obj
+/F4 238 0 R
+/F5 239 0 R
+/F6 240 0 R
+/F8 241 0 R
+/F9 242 0 R
+endobj
+141 0 obj
+/Type /Group
+/S /Transparency
+/I true
+endobj
+142 0 obj
+/ca 1
+/BM /Normal
+endobj
+143 0 obj
+/G3 142 0 R
+/G7 243 0 R
+endobj
+144 0 obj
+/F4 244 0 R
+/F5 245 0 R
+/F6 246 0 R
+/F8 247 0 R
+/F9 248 0 R
+endobj
+145 0 obj
+/Type /Group
+/S /Transparency
+/I true
+endobj
+146 0 obj
+/Type /StructElem
+/S /Table
+/P 30 0 R
+/Pg 8 0 R
+/K [249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R
+259 0 R]
+endobj
+147 0 obj
+/Type /StructElem
+/S /Table
+/P 31 0 R
+/Pg 9 0 R
+/K [260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R]
+endobj
+148 0 obj
+/Type /StructElem
+/S /L
+/P 31 0 R
+/K [267 0 R 268 0 R 269 0 R 270 0 R 271 0 R]
+/Pg 9 0 R
+endobj
+149 0 obj
+/Type /StructElem
+/S /Table
+/P 32 0 R
+/Pg 10 0 R
+/K [272 0 R 273 0 R 274 0 R 275 0 R 276 0 R]
+endobj
+150 0 obj
+/Type /StructElem
+/S /Table
+/P 33 0 R
+/Pg 11 0 R
+/K [277 0 R 278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R
+287 0 R]
+endobj
+151 0 obj
+/Type /StructElem
+/S /Table
+/P 34 0 R
+/Pg 12 0 R
+/K [288 0 R 289 0 R 290 0 R 291 0 R 292 0 R]
+endobj
+152 0 obj
+/Type /StructElem
+/S /TH
+/P 249 0 R
+/A [293 0 R 0]
+/K 35 0 R
+endobj
+153 0 obj
+/Type /StructElem
+/S /TH
+/P 249 0 R
+/A [294 0 R 0]
+/K 36 0 R
+endobj
+154 0 obj
+/Type /StructElem
+/S /TD
+/P 250 0 R
+/K 37 0 R
+endobj
+155 0 obj
+/Type /StructElem
+/S /TD
+/P 250 0 R
+/K 38 0 R
+endobj
+156 0 obj
+/Type /StructElem
+/S /TD
+/P 251 0 R
+/A [295 0 R 0]
+/K 39 0 R
+endobj
+157 0 obj
+/Type /StructElem
+/S /TD
+/P 252 0 R
+/K 40 0 R
+endobj
+158 0 obj
+/Type /StructElem
+/S /TD
+/P 252 0 R
+/K 41 0 R
+endobj
+159 0 obj
+/Type /StructElem
+/S /TD
+/P 253 0 R
+/A [296 0 R 0]
+/K 42 0 R
+endobj
+160 0 obj
+/Type /StructElem
+/S /TD
+/P 254 0 R
+/K 43 0 R
+endobj
+161 0 obj
+/Type /StructElem
+/S /TD
+/P 254 0 R
+/K 44 0 R
+endobj
+162 0 obj
+/Type /StructElem
+/S /TD
+/P 255 0 R
+/A [297 0 R 0]
+/K 45 0 R
+endobj
+163 0 obj
+/Type /StructElem
+/S /TD
+/P 256 0 R
+/K 46 0 R
+endobj
+164 0 obj
+/Type /StructElem
+/S /TD
+/P 256 0 R
+/K 47 0 R
+endobj
+165 0 obj
+/Type /StructElem
+/S /TD
+/P 257 0 R
+/A [298 0 R 0]
+/K 48 0 R
+endobj
+166 0 obj
+/Type /StructElem
+/S /TD
+/P 258 0 R
+/K 49 0 R
+endobj
+167 0 obj
+/Type /StructElem
+/S /TD
+/P 258 0 R
+/K 50 0 R
+endobj
+168 0 obj
+/Type /StructElem
+/S /TD
+/P 259 0 R
+/A [299 0 R 0]
+/K 51 0 R
+endobj
+169 0 obj
+/Type /StructElem
+/S /TH
+/P 260 0 R
+/A [300 0 R 0]
+/K 55 0 R
+endobj
+170 0 obj
+/Type /StructElem
+/S /TH
+/P 260 0 R
+/A [301 0 R 0]
+/K 56 0 R
+endobj
+171 0 obj
+/Type /StructElem
+/S /TD
+/P 261 0 R
+/K 57 0 R
+endobj
+172 0 obj
+/Type /StructElem
+/S /TD
+/P 261 0 R
+/K 58 0 R
+endobj
+173 0 obj
+/Type /StructElem
+/S /TD
+/P 262 0 R
+/A [302 0 R 0]
+/K 59 0 R
+endobj
+174 0 obj
+/Type /StructElem
+/S /TD
+/P 263 0 R
+/K 60 0 R
+endobj
+175 0 obj
+/Type /StructElem
+/S /TD
+/P 263 0 R
+/K 61 0 R
+endobj
+176 0 obj
+/Type /StructElem
+/S /TD
+/P 264 0 R
+/A [303 0 R 0]
+/K 62 0 R
+endobj
+177 0 obj
+/Type /StructElem
+/S /TD
+/P 265 0 R
+/K 63 0 R
+endobj
+178 0 obj
+/Type /StructElem
+/S /TD
+/P 265 0 R
+/K 64 0 R
+endobj
+179 0 obj
+/Type /StructElem
+/S /TD
+/P 266 0 R
+/A [304 0 R 0]
+/K 65 0 R
+endobj
+180 0 obj
+/Type /StructElem
+/S /LBody
+/P 267 0 R
+/K 70 0 R
+endobj
+181 0 obj
+/Type /StructElem
+/S /LBody
+/P 268 0 R
+/K 71 0 R
+endobj
+182 0 obj
+/Type /StructElem
+/S /LBody
+/P 269 0 R
+/K 72 0 R
+endobj
+183 0 obj
+/Type /StructElem
+/S /LBody
+/P 270 0 R
+/K 73 0 R
+endobj
+184 0 obj
+/Type /StructElem
+/S /LBody
+/P 271 0 R
+/K 74 0 R
+endobj
+185 0 obj
+/Type /StructElem
+/S /TH
+/P 272 0 R
+/A [305 0 R 0]
+/K 75 0 R
+endobj
+186 0 obj
+/Type /StructElem
+/S /TH
+/P 272 0 R
+/A [306 0 R 0]
+/K 76 0 R
+endobj
+187 0 obj
+/Type /StructElem
+/S /TD
+/P 273 0 R
+/K [77 0 R 78 0 R]
+endobj
+188 0 obj
+/Type /StructElem
+/S /TD
+/P 273 0 R
+/K 79 0 R
+endobj
+189 0 obj
+/Type /StructElem
+/S /TD
+/P 274 0 R
+/A [307 0 R 0]
+/K 80 0 R
+endobj
+190 0 obj
+/Type /StructElem
+/S /TD
+/P 275 0 R
+/K [81 0 R 82 0 R]
+endobj
+191 0 obj
+/Type /StructElem
+/S /TD
+/P 275 0 R
+/K 83 0 R
+endobj
+192 0 obj
+/Type /StructElem
+/S /TD
+/P 276 0 R
+/A [308 0 R 0]
+/K 84 0 R
+endobj
+193 0 obj
+/Type /StructElem
+/S /TH
+/P 277 0 R
+/A [309 0 R 0]
+/K 88 0 R
+endobj
+194 0 obj
+/Type /StructElem
+/S /TH
+/P 277 0 R
+/A [310 0 R 0]
+/K 89 0 R
+endobj
+195 0 obj
+/Type /StructElem
+/S /TD
+/P 278 0 R
+/K [90 0 R 91 0 R]
+endobj
+196 0 obj
+/Type /StructElem
+/S /TD
+/P 278 0 R
+/K 92 0 R
+endobj
+197 0 obj
+/Type /StructElem
+/S /TD
+/P 279 0 R
+/A [311 0 R 0]
+/K 93 0 R
+endobj
+198 0 obj
+/Type /StructElem
+/S /TD
+/P 280 0 R
+/K [94 0 R 95 0 R]
+endobj
+199 0 obj
+/Type /StructElem
+/S /TD
+/P 280 0 R
+/K 96 0 R
+endobj
+200 0 obj
+/Type /StructElem
+/S /TD
+/P 281 0 R
+/A [312 0 R 0]
+/K 97 0 R
+endobj
+201 0 obj
+/Type /StructElem
+/S /TD
+/P 282 0 R
+/K [98 0 R 99 0 R]
+endobj
+202 0 obj
+/Type /StructElem
+/S /TD
+/P 282 0 R
+/K 100 0 R
+endobj
+203 0 obj
+/Type /StructElem
+/S /TD
+/P 283 0 R
+/A [313 0 R 0]
+/K 101 0 R
+endobj
+204 0 obj
+/Type /StructElem
+/S /TD
+/P 284 0 R
+/K [102 0 R 103 0 R]
+endobj
+205 0 obj
+/Type /StructElem
+/S /TD
+/P 284 0 R
+/K 104 0 R
+endobj
+206 0 obj
+/Type /StructElem
+/S /TD
+/P 285 0 R
+/A [314 0 R 0]
+/K 105 0 R
+endobj
+207 0 obj
+/Type /StructElem
+/S /TD
+/P 286 0 R
+/K [106 0 R 107 0 R]
+endobj
+208 0 obj
+/Type /StructElem
+/S /TD
+/P 286 0 R
+/K 108 0 R
+endobj
+209 0 obj
+/Type /StructElem
+/S /TD
+/P 287 0 R
+/A [315 0 R 0]
+/K 109 0 R
+endobj
+210 0 obj
+/Type /StructElem
+/S /TH
+/P 288 0 R
+/A [316 0 R 0]
+/K 113 0 R
+endobj
+211 0 obj
+/Type /StructElem
+/S /TH
+/P 288 0 R
+/A [317 0 R 0]
+/K 114 0 R
+endobj
+212 0 obj
+/Type /StructElem
+/S /TD
+/P 289 0 R
+/K [115 0 R 116 0 R]
+endobj
+213 0 obj
+/Type /StructElem
+/S /TD
+/P 289 0 R
+/K 117 0 R
+endobj
+214 0 obj
+/Type /StructElem
+/S /TD
+/P 290 0 R
+/A [318 0 R 0]
+/K 118 0 R
+endobj
+215 0 obj
+/Type /StructElem
+/S /TD
+/P 291 0 R
+/K [119 0 R 120 0 R]
+endobj
+216 0 obj
+/Type /StructElem
+/S /TD
+/P 291 0 R
+/K 121 0 R
+endobj
+217 0 obj
+/Type /StructElem
+/S /TD
+/P 292 0 R
+/A [319 0 R 0]
+/K 122 0 R
+endobj
+218 0 obj
+/CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 2
+/ML 4
+/SA true
+/BM /Normal
+endobj
+219 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+CircularStd-Bold
+/Encoding /Identity-H
+/DescendantFonts [320 0 R]
+/ToUnicode 321 0 R
+endobj
+220 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [322 0 R]
+/ToUnicode 323 0 R
+endobj
+221 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [324 0 R]
+/ToUnicode 325 0 R
+endobj
+222 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /CAAAAA+Arimo-Regular
+/Encoding /Identity-H
+/DescendantFonts [326 0 R]
+/ToUnicode 327 0 R
+endobj
+223 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /DAAAAA+CircularStd-Black
+/Encoding /Identity-H
+/DescendantFonts [328 0 R]
+/ToUnicode 329 0 R
+endobj
+224 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [330 0 R]
+/ToUnicode 331 0 R
+endobj
+225 0 obj
+/CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 2
+/ML 4
+/SA true
+/BM /Normal
+endobj
+226 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+CircularStd-Bold
+/Encoding /Identity-H
+/DescendantFonts [332 0 R]
+/ToUnicode 333 0 R
+endobj
+227 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [334 0 R]
+/ToUnicode 335 0 R
+endobj
+228 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [336 0 R]
+/ToUnicode 337 0 R
+endobj
+229 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /CAAAAA+CircularStd-Black
+/Encoding /Identity-H
+/DescendantFonts [338 0 R]
+/ToUnicode 339 0 R
+endobj
+230 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [340 0 R]
+/ToUnicode 341 0 R
+endobj
+231 0 obj
+/CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 2
+/ML 4
+/SA true
+/BM /Normal
+endobj
+232 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+CircularStd-Bold
+/Encoding /Identity-H
+/DescendantFonts [342 0 R]
+/ToUnicode 343 0 R
+endobj
+233 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [344 0 R]
+/ToUnicode 345 0 R
+endobj
+234 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [346 0 R]
+/ToUnicode 347 0 R
+endobj
+235 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /CAAAAA+CircularStd-Black
+/Encoding /Identity-H
+/DescendantFonts [348 0 R]
+/ToUnicode 349 0 R
+endobj
+236 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [350 0 R]
+/ToUnicode 351 0 R
+endobj
+237 0 obj
+/CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 2
+/ML 4
+/SA true
+/BM /Normal
+endobj
+238 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+CircularStd-Bold
+/Encoding /Identity-H
+/DescendantFonts [352 0 R]
+/ToUnicode 353 0 R
+endobj
+239 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [354 0 R]
+/ToUnicode 355 0 R
+endobj
+240 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [356 0 R]
+/ToUnicode 357 0 R
+endobj
+241 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /CAAAAA+CircularStd-Black
+/Encoding /Identity-H
+/DescendantFonts [358 0 R]
+/ToUnicode 359 0 R
+endobj
+242 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [360 0 R]
+/ToUnicode 361 0 R
+endobj
+243 0 obj
+/CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 2
+/ML 4
+/SA true
+/BM /Normal
+endobj
+244 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+CircularStd-Bold
+/Encoding /Identity-H
+/DescendantFonts [362 0 R]
+/ToUnicode 363 0 R
+endobj
+245 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [364 0 R]
+/ToUnicode 365 0 R
+endobj
+246 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [366 0 R]
+/ToUnicode 367 0 R
+endobj
+247 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /CAAAAA+CircularStd-Black
+/Encoding /Identity-H
+/DescendantFonts [368 0 R]
+/ToUnicode 369 0 R
+endobj
+248 0 obj
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+CircularStd-Book
+/Encoding /Identity-H
+/DescendantFonts [370 0 R]
+/ToUnicode 371 0 R
+endobj
+249 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K [152 0 R 153 0 R]
+endobj
+250 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K [154 0 R 155 0 R]
+endobj
+251 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K 156 0 R
+endobj
+252 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K [157 0 R 158 0 R]
+endobj
+253 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K 159 0 R
+endobj
+254 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K [160 0 R 161 0 R]
+endobj
+255 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K 162 0 R
+endobj
+256 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K [163 0 R 164 0 R]
+endobj
+257 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K 165 0 R
+endobj
+258 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K [166 0 R 167 0 R]
+endobj
+259 0 obj
+/Type /StructElem
+/S /TR
+/P 146 0 R
+/K 168 0 R
+endobj
+260 0 obj
+/Type /StructElem
+/S /TR
+/P 147 0 R
+/K [169 0 R 170 0 R]
+endobj
+261 0 obj
+/Type /StructElem
+/S /TR
+/P 147 0 R
+/K [171 0 R 172 0 R]
+endobj
+262 0 obj
+/Type /StructElem
+/S /TR
+/P 147 0 R
+/K 173 0 R
+endobj
+263 0 obj
+/Type /StructElem
+/S /TR
+/P 147 0 R
+/K [174 0 R 175 0 R]
+endobj
+264 0 obj
+/Type /StructElem
+/S /TR
+/P 147 0 R
+/K 176 0 R
+endobj
+265 0 obj
+/Type /StructElem
+/S /TR
+/P 147 0 R
+/K [177 0 R 178 0 R]
+endobj
+266 0 obj
+/Type /StructElem
+/S /TR
+/P 147 0 R
+/K 179 0 R
+endobj
+267 0 obj
+/Type /StructElem
+/S /LI
+/P 148 0 R
+/K [372 0 R 180 0 R]
+endobj
+268 0 obj
+/Type /StructElem
+/S /LI
+/P 148 0 R
+/K [373 0 R 181 0 R]
+endobj
+269 0 obj
+/Type /StructElem
+/S /LI
+/P 148 0 R
+/K [374 0 R 182 0 R]
+endobj
+270 0 obj
+/Type /StructElem
+/S /LI
+/P 148 0 R
+/K [375 0 R 183 0 R]
+endobj
+271 0 obj
+/Type /StructElem
+/S /LI
+/P 148 0 R
+/K [376 0 R 184 0 R]
+endobj
+272 0 obj
+/Type /StructElem
+/S /TR
+/P 149 0 R
+/K [185 0 R 186 0 R]
+endobj
+273 0 obj
+/Type /StructElem
+/S /TR
+/P 149 0 R
+/K [187 0 R 188 0 R]
+endobj
+274 0 obj
+/Type /StructElem
+/S /TR
+/P 149 0 R
+/K 189 0 R
+endobj
+275 0 obj
+/Type /StructElem
+/S /TR
+/P 149 0 R
+/K [190 0 R 191 0 R]
+endobj
+276 0 obj
+/Type /StructElem
+/S /TR
+/P 149 0 R
+/K 192 0 R
+endobj
+277 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K [193 0 R 194 0 R]
+endobj
+278 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K [195 0 R 196 0 R]
+endobj
+279 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K 197 0 R
+endobj
+280 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K [198 0 R 199 0 R]
+endobj
+281 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K 200 0 R
+endobj
+282 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K [201 0 R 202 0 R]
+endobj
+283 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K 203 0 R
+endobj
+284 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K [204 0 R 205 0 R]
+endobj
+285 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K 206 0 R
+endobj
+286 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K [207 0 R 208 0 R]
+endobj
+287 0 obj
+/Type /StructElem
+/S /TR
+/P 150 0 R
+/K 209 0 R
+endobj
+288 0 obj
+/Type /StructElem
+/S /TR
+/P 151 0 R
+/K [210 0 R 211 0 R]
+endobj
+289 0 obj
+/Type /StructElem
+/S /TR
+/P 151 0 R
+/K [212 0 R 213 0 R]
+endobj
+290 0 obj
+/Type /StructElem
+/S /TR
+/P 151 0 R
+/K 214 0 R
+endobj
+291 0 obj
+/Type /StructElem
+/S /TR
+/P 151 0 R
+/K [215 0 R 216 0 R]
+endobj
+292 0 obj
+/Type /StructElem
+/S /TR
+/P 151 0 R
+/K 217 0 R
+endobj
+293 0 obj
+/O /Table
+/Scope /Column
+endobj
+294 0 obj
+/O /Table
+/Scope /Column
+endobj
+295 0 obj
+/O /Table
+/ColSpan 2
+endobj
+296 0 obj
+/O /Table
+/ColSpan 2
+endobj
+297 0 obj
+/O /Table
+/ColSpan 2
+endobj
+298 0 obj
+/O /Table
+/ColSpan 2
+endobj
+299 0 obj
+/O /Table
+/ColSpan 2
+endobj
+300 0 obj
+/O /Table
+/Scope /Column
+endobj
+301 0 obj
+/O /Table
+/Scope /Column
+endobj
+302 0 obj
+/O /Table
+/ColSpan 2
+endobj
+303 0 obj
+/O /Table
+/ColSpan 2
+endobj
+304 0 obj
+/O /Table
+/ColSpan 2
+endobj
+305 0 obj
+/O /Table
+/Scope /Column
+endobj
+306 0 obj
+/O /Table
+/Scope /Column
+endobj
+307 0 obj
+/O /Table
+/ColSpan 2
+endobj
+308 0 obj
+/O /Table
+/ColSpan 2
+endobj
+309 0 obj
+/O /Table
+/Scope /Column
+endobj
+310 0 obj
+/O /Table
+/Scope /Column
+endobj
+311 0 obj
+/O /Table
+/ColSpan 2
+endobj
+312 0 obj
+/O /Table
+/ColSpan 2
+endobj
+313 0 obj
+/O /Table
+/ColSpan 2
+endobj
+314 0 obj
+/O /Table
+/ColSpan 2
+endobj
+315 0 obj
+/O /Table
+/ColSpan 2
+endobj
+316 0 obj
+/O /Table
+/Scope /Column
+endobj
+317 0 obj
+/O /Table
+/Scope /Column
+endobj
+318 0 obj
+/O /Table
+/ColSpan 2
+endobj
+319 0 obj
+/O /Table
+/ColSpan 2
+endobj
+320 0 obj
+/Type /Font
+/FontDescriptor 377 0 R
+/BaseFont /AAAAAA+CircularStd-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 378 0 R
+/W [39 [724]
+ 51 [606]
+ 68 [539 0 0 0 553 0 597 0 275 0
+0 0 886]
+ 85 [391 461 373]
+/DW 584
+endobj
+321 0 obj
+/Length 284
+/Filter /FlateDecode
+stream
+<-N"t8h
+[awUS
+yUUU
+|$z"
+sh|\G
+>6f'
+endstream
+endobj
+322 0 obj
+/Type /Font
+/FontDescriptor 379 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 380 0 R
+/W [3 [250]
+ 15 [294 361 0 0 614 353 529]
+ 28 [581]
+ 36 [697]
+ 43 [738]
+48 [946 0 0 597 0 619]
+ 68 [523 0 530 0 542]
+ 76 [253 0 0 254 857 0 572 0 0 367
+452]
+/DW 562
+endobj
+323 0 obj
+/Length 325
+/Filter /FlateDecode
+stream
+|03|0
+%BRmT
+ae}n
+~"yN)
+H)V9b
+endstream
+endobj
+324 0 obj
+/Type /Font
+/FontDescriptor 381 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 382 0 R
+/W [3 [250]
+ 9 [697 201 302 302 0 0 294 361 279 0
+0 0 529]
+ 36 [697 602 750 720 581 551 765 738 280 534
+0 548 946 763 802 597 802 619 593 592
+0 657 1004 0 618]
+ 68 [523 593 530 588 542 343 578]
+ 76 [253 254 525 254 857]
+82 [572 593 581 367 452 355 566 502 793 491
+523]
+ 98 [250]
+ 224 [224]
+/DW 562
+endobj
+325 0 obj
+/Length 312
+/Filter /FlateDecode
+stream
+).|s
+kdEi
+.bwV
+?{EE
+yf'JG
+=LaU
+endstream
+endobj
+326 0 obj
+/Type /Font
+/FontDescriptor 383 0 R
+/BaseFont /CAAAAA+Arimo-Regular
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 384 0 R
+/W [0 [750]
+ 3 15 277.83203 16 [333.00781]
+ 20 28 556.15234
+36 [666.99219]
+ 48 [833.00781 0 0 666.99219]
+ 68 [556.15234]
+ 75 [556.15234]
+ 85 [333.00781]
+/DW 500
+endobj
+327 0 obj
+/Length 298
+/Filter /FlateDecode
+stream
+`l|?
+r%U!e
++JGU
+dZ{]wr
+endstream
+endobj
+328 0 obj
+/Type /Font
+/FontDescriptor 385 0 R
+/BaseFont /DAAAAA+CircularStd-Black
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 386 0 R
+/W [3 [246]
+ 16 [390]
+ 38 [772]
+ 51 [613 0 0 609]
+ 68 [546 622 0 626 559 0 607]
+79 [286 901]
+ 82 [590 0 0 403 466 0 596 0 0 0
+578]
+/DW 595
+endobj
+329 0 obj
+/Length 306
+/Filter /FlateDecode
+stream
+*!RQo
+"eTYPeF
+hC<j\
+k{?,
+endstream
+endobj
+330 0 obj
+/Type /Font
+/FontDescriptor 387 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 388 0 R
+/W [3 [250]
+ 15 [294 361 0 0 614 353 529 553 0 0
+580 0 0 581]
+ 37 [602]
+ 48 [946]
+ 68 [523 0 530]
+80 [857 0 572 593 0 367 0 355]
+ 95 [262]
+/DW 562
+endobj
+331 0 obj
+/Length 317
+/Filter /FlateDecode
+stream
+t0V{X
+a&eI)
+M@Y;4
+l0a=\d
+^POQ9
+BRl.
+endstream
+endobj
+332 0 obj
+/Type /Font
+/FontDescriptor 389 0 R
+/BaseFont /AAAAAA+CircularStd-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 390 0 R
+/W [39 [724]
+ 51 [606]
+ 68 [539 0 0 0 553 0 597 0 275 0
+0 0 886]
+ 85 [391 461 373]
+/DW 584
+endobj
+333 0 obj
+/Length 284
+/Filter /FlateDecode
+stream
+<-N"t8h
+[awUS
+yUUU
+|$z"
+sh|\G
+>6f'
+endstream
+endobj
+334 0 obj
+/Type /Font
+/FontDescriptor 391 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 392 0 R
+/W [3 [250]
+ 9 [697 0 302 302 0 0 294 361 279 0
+614 353 529 553 0 0 580 0 0 581
+290]
+ 37 [602 750 720 581 551 0 738 280 0 0
+548 946 0 802 597 0 0 593 592 0
+0 1004]
+ 68 [523 593 530 588 542 343 578]
+ 76 [253 0 525 254 857]
+82 [572 593 0 367 452 355 566 502 793 0
+523 466]
+ 221 [642]
+/DW 562
+endobj
+335 0 obj
+/Length 359
+/Filter /FlateDecode
+stream
+@;.X
+P"At"tD$
+lrDR
+:J"_
+)$]H
+endstream
+endobj
+336 0 obj
+/Type /Font
+/FontDescriptor 393 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 394 0 R
+/W [3 [250]
+ 11 12 302 15 [294 361 279 0 614 353 529]
+ 36 [697 602 0 720 581 551 0 738 280 534
+0 548 946 0 802 597 0 0 593 592
+0 0 1004]
+[523 593 530 588 542 343 578]
+ 76 [253 0 525 254 857]
+ 82 [572 593 581 367 452 355 566 502 793 491
+523]
+/DW 562
+endobj
+337 0 obj
+/Length 329
+/Filter /FlateDecode
+stream
+zMX}s
+TCKX
+endstream
+endobj
+338 0 obj
+/Type /Font
+/FontDescriptor 395 0 R
+/BaseFont /CAAAAA+CircularStd-Black
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 396 0 R
+/W [3 [246]
+ 16 [390]
+ 38 [772]
+ 51 [613 0 0 609]
+ 68 [546 622 0 626 559 0 607]
+79 [286 901]
+ 82 [590 0 0 403 466 0 596 0 0 0
+578]
+/DW 595
+endobj
+339 0 obj
+/Length 306
+/Filter /FlateDecode
+stream
+*!RQo
+"eTYPeF
+hC<j\
+k{?,
+endstream
+endobj
+340 0 obj
+/Type /Font
+/FontDescriptor 397 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 398 0 R
+/W [3 [250]
+ 9 [697]
+ 15 [294 361 0 0 614 353 529 0 0 0
+580 483]
+ 37 [602 750]
+ 48 [946]
+68 [523 0 530 0 542]
+ 80 [857]
+ 82 [572 593 0 367 0 355 0 0 793]
+ 95 [262]
+/DW 562
+endobj
+341 0 obj
+/Length 324
+/Filter /FlateDecode
+stream
+~1c[
+~"yN)
+-twV
+%IP&P
+90>\
+endstream
+endobj
+342 0 obj
+/Type /Font
+/FontDescriptor 399 0 R
+/BaseFont /AAAAAA+CircularStd-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 400 0 R
+/W [39 [724]
+ 51 [606]
+ 68 [539 0 0 0 553 0 597 0 275 0
+0 0 886]
+ 85 [391 461 373]
+/DW 584
+endobj
+343 0 obj
+/Length 284
+/Filter /FlateDecode
+stream
+<-N"t8h
+[awUS
+yUUU
+|$z"
+sh|\G
+>6f'
+endstream
+endobj
+344 0 obj
+/Type /Font
+/FontDescriptor 401 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 402 0 R
+/W [3 [250]
+ 9 [697 0 302 302 0 567 294 361 279 434
+614 353 529 553 574 548 580 0 560 581
+290]
+ 36 [697 0 750 720 581 551 0 738 280 0
+0 548 946 763 802 597 802 0 593 592
+0 0 1004]
+ 68 [523 0 530 588 542 343 578]
+ 76 [253 0 525 254 857]
+82 [572 593 581 367 452 355 566 502 793 491
+523 0 0 262]
+ 221 [642]
+/DW 562
+endobj
+345 0 obj
+/Length 342
+/Filter /FlateDecode
+stream
+BjaH
+eYf
+$et 
+)cIARFtf
+eBSQy|
+NEs,
+endstream
+endobj
+346 0 obj
+/Type /Font
+/FontDescriptor 403 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 404 0 R
+/W [3 [250]
+ 9 [697 201]
+ 15 [294 361 279 0 0 353 529]
+ 38 [750 0 581 0 0 0 280 0 0 548
+946]
+ 53 [619 593 592 670]
+68 [523 593 530 588 542 343 578]
+ 76 [253 0 525 254 857]
+ 82 [572 593 0 367 452 355 566 502 793 0
+523 466]
+/DW 562
+endobj
+347 0 obj
+/Length 324
+/Filter /FlateDecode
+stream
+sDiB
+DR2R&W
+endstream
+endobj
+348 0 obj
+/Type /Font
+/FontDescriptor 405 0 R
+/BaseFont /CAAAAA+CircularStd-Black
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 406 0 R
+/W [3 [246]
+ 38 [772]
+ 51 [613 0 0 609]
+ 68 [546 622 0 626 559 0 607]
+ 79 [286 901]
+82 [590 0 0 403 466 0 596 0 0 0
+578]
+/DW 595
+endobj
+349 0 obj
+/Length 303
+/Filter /FlateDecode
+stream
+5k\\
+wvDV
+H)i9i)i9i
+?E*r"I
+P^Nm
+QnC4
+endstream
+endobj
+350 0 obj
+/Type /Font
+/FontDescriptor 407 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 408 0 R
+/W [0 [562 0 0 250]
+ 9 [697]
+ 16 [361 0 0 614 353 529]
+ 36 [697]
+ 48 [946]
+58 [1004]
+ 72 [542 0 0 0 253 0 525 254 0 0
+0 593 0 367 452]
+/DW 523
+endobj
+351 0 obj
+/Length 316
+/Filter /FlateDecode
+stream
+_1CS
+1rDi
+endstream
+endobj
+352 0 obj
+/Type /Font
+/FontDescriptor 409 0 R
+/BaseFont /AAAAAA+CircularStd-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 410 0 R
+/W [39 [724]
+ 51 [606]
+ 68 [539 0 0 0 553 0 597 0 275 0
+0 0 886]
+ 85 [391 461 373]
+/DW 584
+endobj
+353 0 obj
+/Length 284
+/Filter /FlateDecode
+stream
+<-N"t8h
+[awUS
+yUUU
+|$z"
+sh|\G
+>6f'
+endstream
+endobj
+354 0 obj
+/Type /Font
+/FontDescriptor 411 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 412 0 R
+/W [0 [562 0 0 250]
+ 15 [294 0 0 0 614 353 529 553 0 548
+580 0 0 581 290]
+ 36 [697]
+ 48 [946]
+ 58 [1004]
+71 [588 542 0 0 0 253 0 0 254 857
+562 0 593 0 367 452]
+ 221 [642]
+/DW 523
+endobj
+355 0 obj
+/Length 333
+/Filter /FlateDecode
+stream
+}1g:
+Y/W8
+5xc'
+,R&"
+7c,<
+endstream
+endobj
+356 0 obj
+/Type /Font
+/FontDescriptor 413 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 414 0 R
+/W [3 [250]
+ 9 [697 0 302 302 0 0 294 361 279]
+ 22 [553 574 548 580 483]
+ 36 [697 602 750 0 581 551 0 0 280 0
+668 548 946 0 0 597 802 619 593 592
+0 657]
+ 68 [523 593 530 588 542 343 578]
+76 [253 254 525 254 857]
+ 82 [572 593 581 367 452 355 566 502 793 0
+523 466]
+/DW 562
+endobj
+357 0 obj
+/Length 327
+/Filter /FlateDecode
+stream
+3ABH
+X: rO$9
+"_)O
+JI3!
+endstream
+endobj
+358 0 obj
+/Type /Font
+/FontDescriptor 415 0 R
+/BaseFont /CAAAAA+CircularStd-Black
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 416 0 R
+/W [3 [246]
+ 38 [772]
+ 51 [613 0 0 609]
+ 68 [546 622 0 626 559 0 607]
+ 79 [286 901]
+82 [590 0 0 403 466 0 596 0 0 0
+578]
+/DW 595
+endobj
+359 0 obj
+/Length 303
+/Filter /FlateDecode
+stream
+5k\\
+wvDV
+H)i9i)i9i
+?E*r"I
+P^Nm
+QnC4
+endstream
+endobj
+360 0 obj
+/Type /Font
+/FontDescriptor 417 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 418 0 R
+/W [0 [562]
+ 16 [361]
+ 22 [553 0 0 0 483]
+ 58 [1004]
+ 72 [542]
+78 [525]
+ 86 [452]
+/DW 250
+endobj
+361 0 obj
+/Length 268
+/Filter /FlateDecode
+stream
+hL;t
+endstream
+endobj
+362 0 obj
+/Type /Font
+/FontDescriptor 419 0 R
+/BaseFont /AAAAAA+CircularStd-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 420 0 R
+/W [39 [724]
+ 51 [606]
+ 68 [539 0 0 0 553 0 597 0 275 0
+0 0 886]
+ 85 [391 461 373]
+/DW 584
+endobj
+363 0 obj
+/Length 284
+/Filter /FlateDecode
+stream
+<-N"t8h
+[awUS
+yUUU
+|$z"
+sh|\G
+>6f'
+endstream
+endobj
+364 0 obj
+/Type /Font
+/FontDescriptor 421 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 422 0 R
+/W [0 [562 0 0 250]
+ 15 [294 0 0 0 614 353 529 0 574 0
+580 0 0 581 290]
+ 48 [946]
+ 55 [592 0 0 1004]
+ 71 [588 542]
+80 [857 562 0 593 0 0 452 0 566]
+ 221 [642]
+/DW 523
+endobj
+365 0 obj
+/Length 332
+/Filter /FlateDecode
+stream
+HcWP
+D>Xg
+4MS2p
+>`xZ
+HiFt": 
+(%z&
+endstream
+endobj
+366 0 obj
+/Type /Font
+/FontDescriptor 423 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 424 0 R
+/W [3 [250]
+ 14 [567 294 361 279 0 0 0 529]
+ 27 [560]
+ 36 [697 0 750 0 581 551 765 738 280 0
+0 548 946 763 802 597 0 619 593 592
+0 0 1004 0 618]
+ 68 [523 593 530 588 542 343 578]
+76 [253 254 525 254 857]
+ 82 [572 593 0 367 452 355 566 502 793 491
+523]
+ 224 [224]
+/DW 562
+endobj
+367 0 obj
+/Length 323
+/Filter /FlateDecode
+stream
+)'yN
+k?mnE
+8P|
+#S<s
+-Z(2
+`~|m
+endstream
+endobj
+368 0 obj
+/Type /Font
+/FontDescriptor 425 0 R
+/BaseFont /CAAAAA+CircularStd-Black
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 426 0 R
+/W [3 [246]
+ 38 [772]
+ 51 [613 0 0 609]
+ 68 [546 622 0 626 559 0 607]
+ 79 [286 901]
+82 [590 0 0 403 466 0 596 0 0 0
+578]
+/DW 595
+endobj
+369 0 obj
+/Length 303
+/Filter /FlateDecode
+stream
+5k\\
+wvDV
+H)i9i)i9i
+?E*r"I
+P^Nm
+QnC4
+endstream
+endobj
+370 0 obj
+/Type /Font
+/FontDescriptor 427 0 R
+/BaseFont /BAAAAA+CircularStd-Book
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo 428 0 R
+/W [0 [562]
+ 27 [560]
+ 58 [1004]
+ 72 [542]
+ 78 [525]
+/DW 250
+endobj
+371 0 obj
+/Length 256
+/Filter /FlateDecode
+stream
+Zw{B
+fDR1
+8&*N
+endstream
+endobj
+372 0 obj
+/Type /StructElem
+/S /Lbl
+/P 267 0 R
+/ActualText <80>
+endobj
+373 0 obj
+/Type /StructElem
+/S /Lbl
+/P 268 0 R
+/ActualText <80>
+endobj
+374 0 obj
+/Type /StructElem
+/S /Lbl
+/P 269 0 R
+/ActualText <80>
+endobj
+375 0 obj
+/Type /StructElem
+/S /Lbl
+/P 270 0 R
+/ActualText <80>
+endobj
+376 0 obj
+/Type /StructElem
+/S /Lbl
+/P 271 0 R
+/ActualText <80>
+endobj
+377 0 obj
+/Type /FontDescriptor
+/FontName /AAAAAA+CircularStd-Bold
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 156
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-55 -252 1548 997]
+/FontFile2 429 0 R
+endobj
+378 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+379 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 430 0 R
+endobj
+380 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+381 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 431 0 R
+endobj
+382 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+383 0 obj
+/Type /FontDescriptor
+/FontName /CAAAAA+Arimo-Regular
+/Flags 4
+/Ascent 905.27344
+/Descent -211.91406
+/StemV 45.898438
+/CapHeight 687.98828
+/ItalicAngle 0
+/FontBBox [-543.94531 -303.22266 1301.75781 979.98047]
+/FontFile2 432 0 R
+endobj
+384 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+385 0 obj
+/Type /FontDescriptor
+/FontName /DAAAAA+CircularStd-Black
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 188
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-60 -268 1578 1017]
+/FontFile2 433 0 R
+endobj
+386 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+387 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 434 0 R
+endobj
+388 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+389 0 obj
+/Type /FontDescriptor
+/FontName /AAAAAA+CircularStd-Bold
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 156
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-55 -252 1548 997]
+/FontFile2 435 0 R
+endobj
+390 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+391 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 436 0 R
+endobj
+392 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+393 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 437 0 R
+endobj
+394 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+395 0 obj
+/Type /FontDescriptor
+/FontName /CAAAAA+CircularStd-Black
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 188
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-60 -268 1578 1017]
+/FontFile2 438 0 R
+endobj
+396 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+397 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 439 0 R
+endobj
+398 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+399 0 obj
+/Type /FontDescriptor
+/FontName /AAAAAA+CircularStd-Bold
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 156
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-55 -252 1548 997]
+/FontFile2 440 0 R
+endobj
+400 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+401 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 441 0 R
+endobj
+402 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+403 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 442 0 R
+endobj
+404 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+405 0 obj
+/Type /FontDescriptor
+/FontName /CAAAAA+CircularStd-Black
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 188
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-60 -268 1578 1017]
+/FontFile2 443 0 R
+endobj
+406 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+407 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 444 0 R
+endobj
+408 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+409 0 obj
+/Type /FontDescriptor
+/FontName /AAAAAA+CircularStd-Bold
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 156
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-55 -252 1548 997]
+/FontFile2 445 0 R
+endobj
+410 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+411 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 446 0 R
+endobj
+412 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+413 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 447 0 R
+endobj
+414 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+415 0 obj
+/Type /FontDescriptor
+/FontName /CAAAAA+CircularStd-Black
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 188
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-60 -268 1578 1017]
+/FontFile2 448 0 R
+endobj
+416 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+417 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 449 0 R
+endobj
+418 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+419 0 obj
+/Type /FontDescriptor
+/FontName /AAAAAA+CircularStd-Bold
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 156
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-55 -252 1548 997]
+/FontFile2 450 0 R
+endobj
+420 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+421 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 451 0 R
+endobj
+422 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+423 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 452 0 R
+endobj
+424 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+425 0 obj
+/Type /FontDescriptor
+/FontName /CAAAAA+CircularStd-Black
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 188
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-60 -268 1578 1017]
+/FontFile2 453 0 R
+endobj
+426 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+427 0 obj
+/Type /FontDescriptor
+/FontName /BAAAAA+CircularStd-Book
+/Flags 4
+/Ascent 809
+/Descent -191
+/StemV 125
+/CapHeight 709
+/ItalicAngle 0
+/FontBBox [-46 -232 1487 958]
+/FontFile2 454 0 R
+endobj
+428 0 obj
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+endobj
+429 0 obj
+/Length 1572
+/Length1 2632
+/Filter /FlateDecode
+stream
+VmL[U
+P)J)B
+751Q
+g6W8
+2Y/h1d
+>8UK
+l}?2
+@4(G"
+>?3sfT
+NH@4
+o2[D
+(gLECC
+7lrI
++QH%
+_XxVr
+aO{[
+kdw0
+w75u
+2N2G
+#|U=
+@^%W
+\--k4
+cc[67
+endstream
+endobj
+430 0 obj
+/Length 2067
+/Length1 3288
+/Filter /FlateDecode
+stream
+UkL[
+B(I 68@
+jZuWmV"[
+wl %
+ZT|Y
++>t2y
+!uR'
+,^D?f
+2$rL/
+%Og1
+fB+v
+(jD99/
+|+M
+6niJ
+-j6GmR
+#as'
+6>^}
+-YC%
+c:m[
+endstream
+endobj
+431 0 obj
+/Length 4052
+/Length1 6604
+/Filter /FlateDecode
+stream
+IIH 
+!0P_
+.Ys?
+HABN
+ 9zU
+zx$;'
+fa7h
+BDD8
+QH@2{
+[E9ga
+\d.J
+BR!i
+<ZWQ
+2x@H/
+Nat(
+I_&/
+:N&c
+a/,T
+5F;}#
+7vUUw9
+(4r+
+.qo$
+Y9e2
+2.Pj
+yB-M
+|`xo
+H~@R
+kbY%
+$IYcw
+/%WV
+nN4z'
+8NON
+HE}:
+Nb7I-?
+\>MR
+(uF[
+5PCytEJ
+vtxO
+vZ-3Cc
+EjBVS
+w`T:
+O?@l
+^aF8
+~l2i
+rs+J
+PX(1hKk
+5$g\
+i4aQ
+U|gG
+]D8E67y
+v`p>14T
+M%j{
+bS*V
+{dAx
+7Pgo
+s\Y9
+;EE0
+`"Y
+6yj4
+RWijX
+4GO#1
+s-.m
+RTdf
+S8#T
+j$y9%Fro
+endstream
+endobj
+432 0 obj
+/Length 6696
+/Length1 13972
+/Filter /FlateDecode
+stream
+8`Lq
+7|Vp
+}@DjE
+_M{a
+9KAm
+w]?=-
+1hTL
+c8Bn
+8?fp~
+b1?
+UHBr
+p+J1
+c&*1
+LTc&
+@%*1
+w)4|
+s8q!
+u5;3
+7fod
+Z&}m
+%UKk
+%<K-
+RD]eE
+~;d{
+;/7g
+'q)b~
+5-UPV%
+RICTd
+1'*-
+BCjS
+rWbr$2
+Uy>AB
+DkZjA
+()=O9_B^
+<7h'
+Fbl9
+vShp
+5bAq
+6)1
+R0nxZj
+Mar|
+)#Ke
+eyv@
+?::Za
+I{9HZ
+GtNL
+mbxz
+-}fZ
+00=5
+[azw
+jX\1
+by6B
+Ko YYz
++odw
+j/-Pe\N
+4*Md
+&L:!
+N^NzJ^
+:2e7
+tdfr
+,XY++
+'!j^
+O3y^1
+Stf
+p~n4D
+hc+c
+(66V
+3=WoPNB
+Q)c"
+wwdffd
+=n4:a
+?Q)gz
+5b!qDO,
+7o^`
+;da$
+iaDv
+%!HR
+P-bi
+2C/#
+{@?
+M[0Z
+Q,E-=
+/~CM?q
+cJM?
+JMoVjz
+endstream
+endobj
+433 0 obj
+/Length 1919
+/Length1 3108
+/Filter /FlateDecode
+stream
+V{l[g
+AQA*
+j*lbB
+_|3W
+-kjh7w
+VWi(!
+#O?3>
+&yJ,
+P?ZT
+GpiLc
+TX}T
+a;G.
+Cr:%I
+CSWo
+#9#jl&#
+x<
+Xoo,
+I$T7wN[
++@:
+@|Ni3
+)CS*
+pC}Z
+dr95
+&#'k
+$=<E
+aTF 
+w]Ct
+1mq'
+endstream
+endobj
+434 0 obj
+/Length 2055
+/Length1 3308
+/Filter /FlateDecode
+stream
+V}L[
+UjVe]
+[X;5
+{sf1w
+Ljdh
+ xt0
+we7w
+8vXd7-
+-yvK
+HR8@
+i#,[
+"j%v
+/J:A
+5i-.-?L^
+lirW>
+rr.b
+5yLzM
+X{$&
+n#\~$
+wT$/
+2SFQ
+/yaX
+K_l1
+.r;d
+Dr}}
+69?F>
+-"gyet
+endstream
+endobj
+435 0 obj
+/Length 1572
+/Length1 2632
+/Filter /FlateDecode
+stream
+VmL[U
+P)J)B
+751Q
+g6W8
+2Y/h1d
+>8UK
+l}?2
+@4(G"
+>?3sfT
+NH@4
+o2[D
+(gLECC
+7lrI
++QH%
+_XxVr
+aO{[
+kdw0
+w75u
+2N2G
+#|U=
+@^%W
+\--k4
+cc[67
+endstream
+endobj
+436 0 obj
+/Length 3879
+/Length1 6408
+/Filter /FlateDecode
+stream
+8yp[
+IRh9:
+)Y3e
+<8UR
+a2SzJ
+xC\A
+M^}i_
+x-})
+X0A
+El&0C5
+0B9<
+/@f
+Q/rBi
+L1cg
+QSN
+s]mho
+KJ**JJ
+U_nSz
+PCNC
+g\K&
+3$E7
+xQcN
+^#,9
+=Hc2
+F~JV
+XjiY
+;;4tf
+cc.~
+#yBW
+i&Qf
+'FFoil
+:vfh
+Z]m-N
+Yb(+rs
+LZj;g
+-JCy
+^jm_Z
+\&u~&
+[e9z P
+po`>
+BeS*
+Qgkn
+j>>:
+p\I1
+06FV
+O3-]Wgtw
+5qeI
+2V7juZ
+^jm]
+Vaq,T
+y)la
+P-*U
+%{IA
+N*K{z
+W).c
+"d+_.
+/ybn
+o0F+
+H_EP
+endstream
+endobj
+437 0 obj
+/Length 3457
+/Length1 5048
+/Filter /FlateDecode
+stream
+a#)J
+>6n 
+<:=w
+2mxI
+,&;!
+L7va
+a}o;
+C.j>r
+x=\3
+Q_pJ
+U\S1
+Zjc=~
+]\IA
+YjnOc
+CGBms
+y?rj
+W>KIQc4
+uZ)H
+z}-I
+NYd)
+4Y9xe
+lVk6
+'ZfC
+V_e5YL
+t0%%:
+J[~~E
+;jx-
+wylL
+ty&;
+:@/r
+It}T
+zWBZi\
+&!VE7Q,
+;;&\
+vq@Ke
+huYU
+GPzH3P
+w556
+d;-f
+J7iY
+h9]I
+t qzv
+2-K'
+vfDF
+endstream
+endobj
+438 0 obj
+/Length 1919
+/Length1 3108
+/Filter /FlateDecode
+stream
+V{l[g
+AQA*
+j*lbB
+_|3W
+-kjh7w
+VWi(!
+#O?3>
+&yJ,
+P?ZT
+GpiLc
+TX}T
+a;G.
+Cr:%I
+CSWo
+#9#jl&#
+x<
+Xoo,
+I$T7wN[
++@:
+@|Ni3
+)CS*
+pC}Z
+dr95
+&#'k
+$=<E
+aTF 
+w]Ct
+1mq'
+endstream
+endobj
+439 0 obj
+/Length 2343
+/Length1 3652
+/Filter /FlateDecode
+stream
+U{l[
+X'!M 
+g~~6YrJi
+RPB(
+p.'[2
+j ~I
+O A?
+(f1W
+1#Gn
+UUB]*
+z|'v
+oQoU
+#j9-*u
+BtkmE
+MAc,
+=CON
+0]>5^C
+Vg))
+w/t
+xpedh9
+`[#j
+tty|
+Nr%d5
+wDKv
+h_&l
+31A>
+3\o|
+endstream
+endobj
+440 0 obj
+/Length 1572
+/Length1 2632
+/Filter /FlateDecode
+stream
+VmL[U
+P)J)B
+751Q
+g6W8
+2Y/h1d
+>8UK
+l}?2
+@4(G"
+>?3sfT
+NH@4
+o2[D
+(gLECC
+7lrI
++QH%
+_XxVr
+aO{[
+kdw0
+w75u
+2N2G
+#|U=
+@^%W
+\--k4
+cc[67
+endstream
+endobj
+441 0 obj
+/Length 4291
+/Length1 6952
+/Filter /FlateDecode
+stream
+Yyt[
+%?IO^$[
+`dt{rg
+xf{r
+}:e:-R2
+@#$`
+TJI.
+xvL`
+Fa7l
+fa\\
+JOK?
+qmf,
+6@?s
+Y!b
+5h+5
+$?g=
+YPY2
++7=2T
+F.`2
+JFX\
+p97*
+d5Qt
+*hRv
+[6Fz*
+`J_&
+DJHFI
+BJ6I
+H] e/
+]~@1
+rN{
+q6n2Kq3J
+I.`|
+hX[]
+$H.@>
+6,T$<
+v`x6
+."Yi
+hh*`6D
+Pooh
+r}pb
+QaiW
+q>f1-
+LdWS
+j=C~
+UuMC
+H_C7
+KqB)
+^#+[
+v"oaNwei
+~(VO
+grYK
+d{vb
+endstream
+endobj
+442 0 obj
+/Length 3082
+/Length1 4560
+/Filter /FlateDecode
+stream
+=;ZZt
+C@)L
+XC;L
+5MOI
+]ch5
+RUia
+WY,UE
+y:kj
+0[5V
+XG`:
+M(e.^
+6o?]X
+`]`2
+'B&f
+6y~(9
+}Oj>
+tvWUu
+Nv&NuFO
+,=1>
+`*u028P
+Ywg DU
+|!63
+Z:{|
+B)QL
+H/;U
+wh{,dc
+8mKu
+H~/X
+\X]x&s
+endstream
+endobj
+443 0 obj
+/Length 1888
+/Length1 3076
+/Filter /FlateDecode
+stream
+V{l[W
+y9N}
+LmZ7q
+:MbB
+hYSC{
+{;O^
+:~iT
+|<UY
+4{4\S}
+#9#jl&#
+`WVR
+n>>o
+ZRUpDc
+;;pqM
+l_o.
+`9grS)
+/:]m
+qquk
+ZM&WS
+9eudd5
+J)6r
+JSkM
+A8CZ
+_a3p!
+endstream
+endobj
+444 0 obj
+/Length 1849
+/Length1 2952
+/Filter /FlateDecode
+stream
+V}L[
+5YUM
+::uZ
+Y*(O
+HeT
+r<A-^
+lz^l
+eGSss
+f@#X
+>?[,
+K_?6G
+z*}M
+#wb_
+V*'H
+U:x4
+xdb"
+endstream
+endobj
+445 0 obj
+/Length 1572
+/Length1 2632
+/Filter /FlateDecode
+stream
+VmL[U
+P)J)B
+751Q
+g6W8
+2Y/h1d
+>8UK
+l}?2
+@4(G"
+>?3sfT
+NH@4
+o2[D
+(gLECC
+7lrI
++QH%
+_XxVr
+aO{[
+kdw0
+w75u
+2N2G
+#|U=
+@^%W
+\--k4
+cc[67
+endstream
+endobj
+446 0 obj
+/Length 2345
+/Length1 4424
+/Filter /FlateDecode
+stream
+W}l[
+u>HC
+g7MiA
+NU.5
+-{P}
+YrlO
+nS_d^
+;5*J
+*Pph
+#2JU
+i%F9,c
+d?o/
+XFNy7
+R<\F
+[2I8
+5km~-
+d%*+(|
+Cb0 
+L&'8
+9D^M
+C!Q
+r{jIS
+*9L}
+O;jk
+\$W`
+59JT
+x5;xP4
+/wDy
+yD_;Y
+]7q~
+a/@
+Ub2mk
+oH:k
+endstream
+endobj
+447 0 obj
+/Length 3839
+/Length1 5552
+/Filter /FlateDecode
+stream
+fF3o
+4I[ZprH
+d?:731
+f&2O
+-LM|
+MhE;
+CHP3
+JPIoC
+%x8=
+io^B
+KiJ{
+Lqr^|
+jt:N
+NwMG
+,"?-r
+T!9N
+/ZVlpT7
+ecrX
+"Q>`
+|u#n]8
+ZEO!
+Dt_]X
+SZ23 
+Qy<P
+{tP#
+eJSP
+ u9u
+we;F
+Tumfr
+.c+`4
+SdKd
+LWX]#J;5
+wz<nw
+=}5-
++q(2L
+aibp
+m9#y
+hspg
+]'UC
+(GWXm!J
+*uqt
+%KE~1
+D<ZP
+endstream
+endobj
+448 0 obj
+/Length 1888
+/Length1 3076
+/Filter /FlateDecode
+stream
+V{l[W
+y9N}
+LmZ7q
+:MbB
+hYSC{
+{;O^
+:~iT
+|<UY
+4{4\S}
+#9#jl&#
+`WVR
+n>>o
+ZRUpDc
+;;pqM
+l_o.
+`9grS)
+/:]m
+qquk
+ZM&WS
+9eudd5
+J)6r
+JSkM
+A8CZ
+_a3p!
+endstream
+endobj
+449 0 obj
+/Length 1117
+/Length1 2024
+/Filter /FlateDecode
+stream
+klSe
+jw)]K
+]g j
+/hXbP
+xrB6
+3`RA
+vh)#f6
+99m 
+neQ+
+2f|X
+#EYP
+lB%P
+36A?
+A+WEL
+@uuU
+phic
+du-3
+osYt
+rFNS
+nGPq)
+*.a5p9
+rb}W6
+endstream
+endobj
+450 0 obj
+/Length 1572
+/Length1 2632
+/Filter /FlateDecode
+stream
+VmL[U
+P)J)B
+751Q
+g6W8
+2Y/h1d
+>8UK
+l}?2
+@4(G"
+>?3sfT
+NH@4
+o2[D
+(gLECC
+7lrI
++QH%
+_XxVr
+aO{[
+kdw0
+w75u
+2N2G
+#|U=
+@^%W
+\--k4
+cc[67
+endstream
+endobj
+451 0 obj
+/Length 2183
+/Length1 4196
+/Filter /FlateDecode
+stream
+TZ-tEW
+@.L%
+LfJ'
+xWY!h
+4{REy
+QQB(
+mUnF
+YL`
+*+cp)w
+y<n
+QVm4
+Fk*2
+%[Su4
+y9_[
+3QCu;
+h25TU7r
+qGYYeeY
+2Rfr
+O|0p'q
+o%_<?
+d7Qmp4Uy
+\T(#
+-]lY
+=MCn
+OL]&&o
+}JOL/
+QWM3
+C*2@
+3@jR
+endstream
+endobj
+452 0 obj
+/Length 3522
+/Length1 5956
+/Filter /FlateDecode
+stream
+IH n
+;4z$
+QikC6 \
+.b'4
+sg#@x_
+G?va
+f|)3g
+BS8
+>L`r
+W$w(|
+)H;i
+c7~g
+6&A"+
+Y\:1N
+Te T
+JS4G
+)*:JE
+M]l~
+2C~Z
+T0xjx
+:QgJ
+X8)II
+ZmR)K#
+L:Km
+/Y9[
+]oJG
+IZSx
+M#[|
+O57M
+DQOy}
+OOl`
+`aoEu\_
+CvkU
+wXa
+X>]E
+V*Q\
+ZMSC
+2gd6
+z-9:
+}.{E
+ZV%u75[
+[Jm[
+cY2FS
+y~3%1
+b9YE
+endstream
+endobj
+453 0 obj
+/Length 1888
+/Length1 3076
+/Filter /FlateDecode
+stream
+V{l[W
+y9N}
+LmZ7q
+:MbB
+hYSC{
+{;O^
+:~iT
+|<UY
+4{4\S}
+#9#jl&#
+`WVR
+n>>o
+ZRUpDc
+;;pqM
+l_o.
+`9grS)
+/:]m
+qquk
+ZM&WS
+9eudd5
+J)6r
+JSkM
+A8CZ
+_a3p!
+endstream
+endobj
+454 0 obj
+/Length 945
+/Length1 1792
+/Filter /FlateDecode
+stream
+g@\H
+cHlhtp
+BH!w
+B/#%l
+VZi#
+qM]}}{ 
+W]]U
+DgOs 
+x|U_
+|#n~U
+endstream
+endobj
+xref
+0 455
+0000000000 65535 f
+0000000015 00000 n
+0000000409 00000 n
+0000000493 00000 n
+0000003280 00000 n
+0000003375 00000 n
+0000003425 00000 n
+0000000168 00000 n
+0000003493 00000 n
+0000003878 00000 n
+0000004263 00000 n
+0000004649 00000 n
+0000005035 00000 n
+0000005421 00000 n
+0000005523 00000 n
+0000006255 00000 n
+0000006289 00000 n
+0000012254 00000 n
+0000012456 00000 n
+0000012490 00000 n
+0000019488 00000 n
+0000019690 00000 n
+0000019724 00000 n
+0000027701 00000 n
+0000027903 00000 n
+0000027937 00000 n
+0000033021 00000 n
+0000033223 00000 n
+0000033257 00000 n
+0000036451 00000 n
+0000036653 00000 n
+0000036756 00000 n
+0000036874 00000 n
+0000036978 00000 n
+0000037085 00000 n
+0000037192 00000 n
+0000037289 00000 n
+0000037398 00000 n
+0000037527 00000 n
+0000037758 00000 n
+0000038441 00000 n
+0000038570 00000 n
+0000038723 00000 n
+0000039730 00000 n
+0000039859 00000 n
+0000040018 00000 n
+0000040910 00000 n
+0000041040 00000 n
+0000041252 00000 n
+0000042414 00000 n
+0000042516 00000 n
+0000042682 00000 n
+0000044230 00000 n
+0000044375 00000 n
+0000044522 00000 n
+0000044604 00000 n
+0000044701 00000 n
+0000044810 00000 n
+0000045105 00000 n
+0000045254 00000 n
+0000045933 00000 n
+0000046192 00000 n
+0000046335 00000 n
+0000047042 00000 n
+0000047313 00000 n
+0000047544 00000 n
+0000048234 00000 n
+0000048379 00000 n
+0000048568 00000 n
+0000048650 00000 n
+0000048865 00000 n
+0000049029 00000 n
+0000049240 00000 n
+0000049477 00000 n
+0000049688 00000 n
+0000049811 00000 n
+0000049897 00000 n
+0000049989 00000 n
+0000050094 00000 n
+0000050211 00000 n
+0000050340 00000 n
+0000050800 00000 n
+0000050905 00000 n
+0000051022 00000 n
+0000051148 00000 n
+0000051670 00000 n
+0000051782 00000 n
+0000051865 00000 n
+0000051978 00000 n
+0000052064 00000 n
+0000052156 00000 n
+0000052262 00000 n
+0000052379 00000 n
+0000052509 00000 n
+0000052888 00000 n
+0000052994 00000 n
+0000053111 00000 n
+0000053222 00000 n
+0000053595 00000 n
+0000053702 00000 n
+0000053820 00000 n
+0000053939 00000 n
+0000054332 00000 n
+0000054437 00000 n
+0000054556 00000 n
+0000054684 00000 n
+0000055083 00000 n
+0000055189 00000 n
+0000055308 00000 n
+0000055414 00000 n
+0000055834 00000 n
+0000055985 00000 n
+0000056096 00000 n
+0000056180 00000 n
+0000056267 00000 n
+0000056360 00000 n
+0000056463 00000 n
+0000056581 00000 n
+0000056723 00000 n
+0000057134 00000 n
+0000057239 00000 n
+0000057357 00000 n
+0000057486 00000 n
+0000058242 00000 n
+0000058393 00000 n
+0000058494 00000 n
+0000058578 00000 n
+0000058619 00000 n
+0000058666 00000 n
+0000058762 00000 n
+0000058823 00000 n
+0000058864 00000 n
+0000058911 00000 n
+0000058994 00000 n
+0000059055 00000 n
+0000059096 00000 n
+0000059143 00000 n
+0000059226 00000 n
+0000059287 00000 n
+0000059328 00000 n
+0000059375 00000 n
+0000059458 00000 n
+0000059519 00000 n
+0000059560 00000 n
+0000059607 00000 n
+0000059690 00000 n
+0000059751 00000 n
+0000059915 00000 n
+0000060047 00000 n
+0000060159 00000 n
+0000060276 00000 n
+0000060441 00000 n
+0000060558 00000 n
+0000060642 00000 n
+0000060726 00000 n
+0000060795 00000 n
+0000060864 00000 n
+0000060948 00000 n
+0000061017 00000 n
+0000061086 00000 n
+0000061170 00000 n
+0000061239 00000 n
+0000061308 00000 n
+0000061392 00000 n
+0000061461 00000 n
+0000061530 00000 n
+0000061614 00000 n
+0000061683 00000 n
+0000061752 00000 n
+0000061836 00000 n
+0000061920 00000 n
+0000062004 00000 n
+0000062073 00000 n
+0000062142 00000 n
+0000062226 00000 n
+0000062295 00000 n
+0000062364 00000 n
+0000062448 00000 n
+0000062517 00000 n
+0000062586 00000 n
+0000062670 00000 n
+0000062742 00000 n
+0000062814 00000 n
+0000062886 00000 n
+0000062958 00000 n
+0000063030 00000 n
+0000063114 00000 n
+0000063198 00000 n
+0000063276 00000 n
+0000063345 00000 n
+0000063429 00000 n
+0000063507 00000 n
+0000063576 00000 n
+0000063660 00000 n
+0000063744 00000 n
+0000063828 00000 n
+0000063906 00000 n
+0000063975 00000 n
+0000064059 00000 n
+0000064137 00000 n
+0000064206 00000 n
+0000064290 00000 n
+0000064368 00000 n
+0000064438 00000 n
+0000064523 00000 n
+0000064603 00000 n
+0000064673 00000 n
+0000064758 00000 n
+0000064838 00000 n
+0000064908 00000 n
+0000064993 00000 n
+0000065078 00000 n
+0000065163 00000 n
+0000065243 00000 n
+0000065313 00000 n
+0000065398 00000 n
+0000065478 00000 n
+0000065548 00000 n
+0000065633 00000 n
+0000065713 00000 n
+0000065867 00000 n
+0000066021 00000 n
+0000066175 00000 n
+0000066326 00000 n
+0000066481 00000 n
+0000066635 00000 n
+0000066715 00000 n
+0000066869 00000 n
+0000067023 00000 n
+0000067177 00000 n
+0000067332 00000 n
+0000067486 00000 n
+0000067566 00000 n
+0000067720 00000 n
+0000067874 00000 n
+0000068028 00000 n
+0000068183 00000 n
+0000068337 00000 n
+0000068417 00000 n
+0000068571 00000 n
+0000068725 00000 n
+0000068879 00000 n
+0000069034 00000 n
+0000069188 00000 n
+0000069268 00000 n
+0000069422 00000 n
+0000069576 00000 n
+0000069730 00000 n
+0000069885 00000 n
+0000070039 00000 n
+0000070119 00000 n
+0000070199 00000 n
+0000070269 00000 n
+0000070349 00000 n
+0000070419 00000 n
+0000070499 00000 n
+0000070569 00000 n
+0000070649 00000 n
+0000070719 00000 n
+0000070799 00000 n
+0000070869 00000 n
+0000070949 00000 n
+0000071029 00000 n
+0000071099 00000 n
+0000071179 00000 n
+0000071249 00000 n
+0000071329 00000 n
+0000071399 00000 n
+0000071479 00000 n
+0000071559 00000 n
+0000071639 00000 n
+0000071719 00000 n
+0000071799 00000 n
+0000071879 00000 n
+0000071959 00000 n
+0000072029 00000 n
+0000072109 00000 n
+0000072179 00000 n
+0000072259 00000 n
+0000072339 00000 n
+0000072409 00000 n
+0000072489 00000 n
+0000072559 00000 n
+0000072639 00000 n
+0000072709 00000 n
+0000072789 00000 n
+0000072859 00000 n
+0000072939 00000 n
+0000073009 00000 n
+0000073089 00000 n
+0000073169 00000 n
+0000073239 00000 n
+0000073319 00000 n
+0000073389 00000 n
+0000073437 00000 n
+0000073485 00000 n
+0000073529 00000 n
+0000073573 00000 n
+0000073617 00000 n
+0000073661 00000 n
+0000073705 00000 n
+0000073753 00000 n
+0000073801 00000 n
+0000073845 00000 n
+0000073889 00000 n
+0000073933 00000 n
+0000073981 00000 n
+0000074029 00000 n
+0000074073 00000 n
+0000074117 00000 n
+0000074165 00000 n
+0000074213 00000 n
+0000074257 00000 n
+0000074301 00000 n
+0000074345 00000 n
+0000074389 00000 n
+0000074433 00000 n
+0000074481 00000 n
+0000074529 00000 n
+0000074573 00000 n
+0000074617 00000 n
+0000074873 00000 n
+0000075233 00000 n
+0000075563 00000 n
+0000075964 00000 n
+0000076427 00000 n
+0000076815 00000 n
+0000077138 00000 n
+0000077512 00000 n
+0000077817 00000 n
+0000078199 00000 n
+0000078511 00000 n
+0000078904 00000 n
+0000079160 00000 n
+0000079520 00000 n
+0000079975 00000 n
+0000080410 00000 n
+0000080828 00000 n
+0000081233 00000 n
+0000081538 00000 n
+0000081920 00000 n
+0000082257 00000 n
+0000082657 00000 n
+0000082913 00000 n
+0000083273 00000 n
+0000083750 00000 n
+0000084168 00000 n
+0000084563 00000 n
+0000084963 00000 n
+0000085258 00000 n
+0000085637 00000 n
+0000085945 00000 n
+0000086337 00000 n
+0000086593 00000 n
+0000086953 00000 n
+0000087297 00000 n
+0000087706 00000 n
+0000088143 00000 n
+0000088546 00000 n
+0000088841 00000 n
+0000089220 00000 n
+0000089475 00000 n
+0000089819 00000 n
+0000090075 00000 n
+0000090435 00000 n
+0000090767 00000 n
+0000091175 00000 n
+0000091611 00000 n
+0000092010 00000 n
+0000092305 00000 n
+0000092684 00000 n
+0000092910 00000 n
+0000093242 00000 n
+0000093319 00000 n
+0000093396 00000 n
+0000093473 00000 n
+0000093550 00000 n
+0000093627 00000 n
+0000093832 00000 n
+0000093908 00000 n
+0000094113 00000 n
+0000094189 00000 n
+0000094394 00000 n
+0000094470 00000 n
+0000094721 00000 n
+0000094797 00000 n
+0000095004 00000 n
+0000095080 00000 n
+0000095285 00000 n
+0000095361 00000 n
+0000095566 00000 n
+0000095642 00000 n
+0000095847 00000 n
+0000095923 00000 n
+0000096128 00000 n
+0000096204 00000 n
+0000096411 00000 n
+0000096487 00000 n
+0000096692 00000 n
+0000096768 00000 n
+0000096973 00000 n
+0000097049 00000 n
+0000097254 00000 n
+0000097330 00000 n
+0000097535 00000 n
+0000097611 00000 n
+0000097818 00000 n
+0000097894 00000 n
+0000098099 00000 n
+0000098175 00000 n
+0000098380 00000 n
+0000098456 00000 n
+0000098661 00000 n
+0000098737 00000 n
+0000098942 00000 n
+0000099018 00000 n
+0000099225 00000 n
+0000099301 00000 n
+0000099506 00000 n
+0000099582 00000 n
+0000099787 00000 n
+0000099863 00000 n
+0000100068 00000 n
+0000100144 00000 n
+0000100349 00000 n
+0000100425 00000 n
+0000100632 00000 n
+0000100708 00000 n
+0000100913 00000 n
+0000100989 00000 n
+0000102652 00000 n
+0000104810 00000 n
+0000108953 00000 n
+0000115741 00000 n
+0000117751 00000 n
+0000119897 00000 n
+0000121560 00000 n
+0000125530 00000 n
+0000129078 00000 n
+0000131088 00000 n
+0000133522 00000 n
+0000135185 00000 n
+0000139567 00000 n
+0000142740 00000 n
+0000144719 00000 n
+0000146659 00000 n
+0000148322 00000 n
+0000150758 00000 n
+0000154688 00000 n
+0000156667 00000 n
+0000157875 00000 n
+0000159538 00000 n
+0000161812 00000 n
+0000165425 00000 n
+0000167404 00000 n
+trailer
+/Root 1 0 R
+/Info 7 0 R
+/ID [<FFF14DDC4A37B603B2F3A12C6570E94F> <FFF14DDC4A37B603B2F3A12C6570E94F>]
+/Size 455
+startxref
+168439
+%%EOF

@@ -1,0 +1,221 @@
+[
+    {
+        "name": "Demetre Balaktsis",
+        "role": "Lab2Market Prairies Program Manager",
+        "location": "Winnipeg MB",
+        "linkedin": "https://www.linkedin.com/in/demetrebalaktsis",
+        "phone": "(431) 337-7376",
+        "email": "demetre.balaktsis@umanitoba.ca",
+        "group": "operations",
+        "thumbnail": "/images/team/demetre.webp"
+    },
+    {
+        "name": "JP Giordani",
+        "role": "Lab2Market Prairies Program Coordinator",
+        "location": "Winnipeg MB",
+        "linkedin": "https://www.linkedin.com/in/jp-giordani-b60610314/",
+        "phone": "(204) 599-0297",
+        "email": "jp.giordani@umanitoba.ca",
+        "group": "operations",
+        "thumbnail": "/images/team/jp.webp"
+    },
+    {
+        "name": "Chris Street",
+        "role": "Bootcamp & Core Facilitator",
+        "location": "Regina",
+        "linkedin": "https://www.linkedin.com/in/chris-street-14556519b",
+        "email": "chris.street@uregina.ca",
+        "group": "facilitators",
+        "thumbnail": "/images/team/chris-street.webp"
+    },
+    {
+        "name": "David Yee",
+        "role": "Bootcamp & Core Facilitator",
+        "location": "Saskatoon",
+        "linkedin": "https://www.linkedin.com/in/davidyee65/",
+        "email": "david.yee@ratelnovus.ca",
+        "group": "facilitators",
+        "thumbnail": "/images/team/david-yee.webp"
+    },
+    {
+        "name": "Henry Floreal",
+        "role": "Bootcamp & Core Facilitator",
+        "location": "Winnipeg MB",
+        "linkedin": "https://www.linkedin.com/in/henryfloreal/",
+        "email": "henryfloreal@gmail.com",
+        "group": "facilitators",
+        "thumbnail": "/images/team/henry-floreal.webp"
+    },
+    {
+        "name": "Rosalie Harms",
+        "role": "Bootcamp Facilitator & Mentor",
+        "location": "Winnipeg",
+        "linkedin": "http://linkedin.com/in/rosalie-harms-b52a5419",
+        "phone": "(204) 510-2637",
+        "email": "rosalie.harms@thegriffingroup.biz",
+        "expertise": "CPA, CMA, MBA, CMC",
+        "group": "facilitators",
+        "thumbnail": "/images/team/rosalie-harms.webp"
+    },
+    {
+        "name": "Randy Roy",
+        "role": "Sales Specialist @ GeminiBio",
+        "expertise": "Bioengineering / L2M Alumni",
+        "location": "San Francisco Bay Area",
+        "email": "randi_roy@berkeley.edu",
+        "linkedin": "https://www.linkedin.com/in/randi-roy/",
+        "group": "mentors",
+        "thumbnail": "/images/team/randy-roy.png"
+    },
+    {
+        "name": "Eniola Osabiya",
+        "role": "Co-Founder @ Stealth Startup",
+        "expertise": "AI Strategist / Entrepreneur / L2M Alumni",
+        "location": "Winnipeg",
+        "email": "eosabiya@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/eniola-osabiya/",
+        "group": "mentors",
+        "thumbnail": "/images/team/eniola-osabiya.png"
+    },
+    {
+        "name": "Jack Jarvis",
+        "role": "Co-Founder @ TurnCO2",
+        "expertise": "Entrepreneur / L2M Alumni",
+        "location": "Calgary",
+        "email": "jack.jarvis@turnco2.com",
+        "linkedin": "https://www.linkedin.com/in/jack-s-jarvis/",
+        "group": "mentors",
+        "thumbnail": "/images/team/jack-jarvis.png"
+    },
+    {
+        "name": "Jody Dexter",
+        "role": "Technology Transfer Manager @ University of Manitoba",
+        "expertise": "Intellectual Property",
+        "location": "Winnipeg",
+        "email": "Jody.Dexter@umanitoba.ca",
+        "linkedin": "https://www.linkedin.com/in/jody-dexter-ph-d-8303023a/",
+        "group": "mentors",
+        "thumbnail": "/images/team/jody-dexter.png"
+    },
+    {
+        "name": "Andrew Tse",
+        "role": "Technology Transfer Manager @ University of Manitoba",
+        "expertise": "Intellectual Property",
+        "location": "Winnipeg",
+        "email": "Andrew.Tse@umanitoba.ca",
+        "linkedin": "https://www.linkedin.com/in/andrewwhtse/",
+        "group": "mentors",
+        "thumbnail": "/images/team/andrew-tse.png"
+    },
+    {
+        "name": "Daniel Heschuk",
+        "role": "Program Development Specialist @ University of Manitoba",
+        "expertise": "Science Entrepreneurship",
+        "location": "Winnipeg MB",
+        "email": "Daniel.Heschuk@umanitoba.ca",
+        "linkedin": "https://www.linkedin.com/in/danheschuk/",
+        "group": "mentors",
+        "thumbnail": "/images/team/daniel-heschuk.png"
+    },
+    {
+        "name": "Nnanna Ukoji",
+        "role": "Tech Transfer Manager @ University of Manitoba - PKMI",
+        "expertise": "Intellectual Property",
+        "location": "Winnipeg MB",
+        "email": "Nnanna.Ukoji@umanitoba.ca",
+        "linkedin": "https://www.linkedin.com/in/nnanna-ukoji-pmp%C2%AE-phd-839420127/",
+        "group": "mentors",
+        "thumbnail": "/images/team/nnanna-ukoji.webp"
+    },
+    {
+        "name": "Atif Mumtaz",
+        "role": "Program Manager @ North Forge",
+        "expertise": "Strategy | IP | Product Development",
+        "location": "Winnipeg",
+        "email": "amumtaz@xenstreet.com",
+        "linkedin": "https://ca.linkedin.com/in/amumtaz",
+        "group": "mentors",
+        "thumbnail": "/images/team/atif-mumtaz.png"
+    },
+    {
+        "name": "Marissa Naylor",
+        "role": "Marketing Specialist @ Stu Clark Centre",
+        "expertise": "Marketing",
+        "location": "Winnipeg MB",
+        "email": "marissa.naylor@umanitoba.ca",
+        "linkedin": "https://www.linkedin.com/in/marissa-naylor-2bb493116",
+        "group": "mentors",
+        "thumbnail": "/images/team/marissa-naylor.webp"
+    },
+    {
+        "name": "Grant Zipursky",
+        "role": "Co-Founder & CEO @ MD Innovative Strategies",
+        "expertise": "Biotech and Healthtech",
+        "location": "Winnipeg MB",
+        "email": "gzipursky@me.com",
+        "linkedin": "https://www.linkedin.com/in/gzipursky/",
+        "group": "mentors",
+        "thumbnail": "/images/team/grant-zipursky.webp"
+    },
+    {
+        "name": "Julia Slanina",
+        "role": "Founder & CEO @ Treehouse",
+        "expertise": "Entrepreneur",
+        "location": "Ottawa",
+        "email": "julia.slanina@growwithtreehouse.ca",
+        "linkedin": "https://www.linkedin.com/in/julia-slanina-treehouse1338/",
+        "group": "mentors",
+        "thumbnail": "/images/team/julia-slanina.jpg"
+    },
+    {
+        "name": "Dr. Wendy Yan",
+        "role": "Business Development Manager @ Futurpreneur",
+        "expertise": "Business Development",
+        "location": "Winnipeg",
+        "email": "wyan@futurpreneur.ca",
+        "linkedin": "https://www.linkedin.com/in/wendy-yan-ph-d-990b56a1/",
+        "group": "mentors",
+        "thumbnail": "/images/team/wendy-yan.webp"
+    },
+    {
+        "name": "Rajeev Koyal",
+        "role": "Program Manager @ Idea Start!",
+        "expertise": "Start-up | Ideation & Validation",
+        "location": "Winnipeg MB",
+        "email": "rajeev.koyal@umanitoba.ca",
+        "linkedin": "https://ca.linkedin.com/in/rajeevkoyal",
+        "group": "mentors",
+        "thumbnail": "/images/team/rajeev-koyal.webp"
+    },
+    {
+        "name": "Ben Isakov",
+        "role": "Venture Coach @ Stu Clark Centre",
+        "expertise": "Strategic Planning | Business Consulting",
+        "location": "Winnipeg MB",
+        "email": "ben.isakov@umanitoba.ca",
+        "linkedin": "https://ca.linkedin.com/in/benisakov",
+        "group": "mentors",
+        "thumbnail": "/images/team/ben-isakov.webp"
+    },
+    {
+        "name": "Janine Carmichael",
+        "role": "Program Manager @ University of Manitoba",
+        "expertise": "Faculty Specialist: Entrepreneurship",
+        "location": "Winnipeg MB",
+        "email": "janine.carmichael@umanitoba.ca",
+        "linkedin": "https://www.linkedin.com/in/janinecarmichael/?originalSubdomain=ca",
+        "group": "mentors",
+        "thumbnail": "/images/team/janine-carmichael.webp"
+    },
+    {
+        "name": "Rosalie Harms",
+        "role": "Bootcamp Facilitator & Mentor",
+        "location": "Winnipeg",
+        "linkedin": "http://linkedin.com/in/rosalie-harms-b52a5419",
+        "phone": "(204) 510-2637",
+        "email": "rosalie.harms@thegriffingroup.biz",
+        "expertise": "CPA, CMA, MBA, CMC",
+        "group": "mentors",
+        "thumbnail": "/images/team/rosalie-harms.webp"
+    }
+]

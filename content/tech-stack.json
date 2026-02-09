@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Notion",
+        "description": "Knowledge portal for the program",
+        "links": {
+            "program": "https://fluoridated-jodhpur-e09.notion.site/Lab2Market-Prairies-Validate-Cohort-7-2e0943b725c780cf8a2ae1c6a0eab9ca?source=copy_link",
+            "help": "https://www.notion.so/help"
+        }
+    },
+    {
+        "name": "Slack",
+        "description": "Main communication platform used for the program",
+        "links": {
+            "android": "https://slack.com/downloads/android",
+            "ios": "https://apps.apple.com/us/app/slack/id618783545",
+            "mac": "https://slack.com/downloads/mac",
+            "windows": "https://slack.com/downloads/windows",
+            "help": "https://slack.com/help/categories/200111606"
+        }
+    },
+    {
+        "name": "Zoom",
+        "description": "Online meeting platform for live scheduled programming",
+        "links": {
+            "signup": "https://zoom.us/signup#/signup",
+            "download": "https://zoom.us/downloadcenter",
+            "help": "https://support.zoom.com/hc/en"
+        }
+    },
+    {
+        "name": "Remo",
+        "description": "Online meeting platform used for Social Sessions",
+        "email": "support@remo.co",
+        "links": {
+            "signup": "https://live.remo.co/signup?redirectTo=%2Fhome",
+            "help": "https://help.remo.co/en/support/solutions/folders/63000235897"
+        }
+    },
+    {
+        "name": "Google Drive",
+        "description": "File storage system for program materials",
+        "links": {
+            "help": "https://support.google.com/drive/answer/2424384"
+        }
+    },
+    {
+        "name": "Innovation Within™️",
+        "description": "Platform for customer discovery",
+        "email": "support@innovationwithin.com",
+        "links": {
+            "help": "https://innovation-within.helpscoutdocs.com/"
+        }
+    }
+]

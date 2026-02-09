@@ -1,0 +1,37 @@
+{
+    "programOverview": {
+        "title": "Lab2Market Prairies",
+        "description": "Lab2Market bridges the gap between a research idea and commercialization. Participants who complete the Lab2Market program are rewarded with critical entrepreneurial skills and $10,000 (through Mitacs and PrairiesCan) to help fund their research. This program encourages researchers to challenge their lab findings and test whether there is a need for their innovation in the commercial market.",
+        "stats": [
+            {
+                "label": "National Teams",
+                "value": "476+"
+            },
+            {
+                "label": "Universities",
+                "value": "38"
+            },
+            {
+                "label": "Funding",
+                "value": "$10k"
+            },
+            {
+                "label": "Duration",
+                "value": "4 Mo"
+            }
+        ],
+        "welcomeMessage": "Hello and welcome! (We’re glad you’re here.) Our team is thrilled to delivering Cohort 7 of Lab2Market Prairies / Validate—we look forward to collaborating with you all and empowering you throughout this program and beyond!"
+    },
+    "welcomePackage": [
+        {
+            "title": "L2M Validate C7 Welcome Package",
+            "type": "PDF",
+            "link": "https://drive.google.com/file/d/1ocYjCVOzuJM9yRVF4I_VbngX2ZefcXZc/view?usp=sharing"
+        }
+    ],
+    "contact": {
+        "name": "Demetre Balaktsis",
+        "role": "Program Manager",
+        "email": "Demetre.Balaktsis@umanitoba.ca"
+    }
+}

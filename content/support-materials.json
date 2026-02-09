@@ -1,0 +1,42 @@
+[
+    {
+        "category": "Mandatory",
+        "title": "Talking to Humans",
+        "author": "Frank Rimalovski and Giff Constable",
+        "type": "PDF",
+        "date": "2014",
+        "link": "https://drive.google.com/file/d/1Z8M_bA8H799zXRX3yTf5LBVJoZcM7BGI/view?usp=drive_link"
+    },
+    {
+        "category": "Optional",
+        "title": "The Mom Test",
+        "author": "Rob Fitzpatrick",
+        "type": "PDF",
+        "date": "2014",
+        "link": "https://drive.google.com/file/d/1kOc9yITylXzfwwjT9AatcmKp_8dL83nE/view?usp=drive_link"
+    },
+    {
+        "category": "Optional",
+        "title": "Testing With Humans",
+        "author": "Frank Rimalovski",
+        "type": "PDF",
+        "date": "2018",
+        "link": "https://drive.google.com/file/d/14vJMCa-S9OPbROgdhwItASO2-c62hIRn/view?usp=drive_link"
+    },
+    {
+        "category": "Reference Manual",
+        "title": "Business Model Generation",
+        "author": "Alexander Osterwalder and Yves Pigneur",
+        "type": "PDF",
+        "date": "2010",
+        "link": "https://drive.google.com/file/d/1SfGCvc4dh6K422eVNwzIGCNr11XdrkUS/view?usp=drive_link"
+    },
+    {
+        "category": "Reference Manual",
+        "title": "Startup Owner's Manual",
+        "author": "Steve Blank and Bob Dorf",
+        "type": "PDF",
+        "date": "2020",
+        "link": "https://drive.google.com/file/d/1y7SIv_cp4I4OLVECtt0SpMcL_AQPH268/view?usp=drive_link"
+    }
+]

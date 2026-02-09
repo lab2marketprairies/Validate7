@@ -1,0 +1,90 @@
+[
+    {
+        "day": "Day 2",
+        "category": "Bonus",
+        "title": "Clay Christensen’s Milkshake Marketing",
+        "activity": "Assessing Risk",
+        "type": "Video",
+        "link": "https://www.youtube.com/watch?v=Stc0beAxavY"
+    },
+    {
+        "day": "Day 3",
+        "category": "Watch Again",
+        "title": "How to Not Articulate A Value Proposition",
+        "activity": "Value Proposition",
+        "type": "Video",
+        "link": "https://www.youtube.com/watch?v=5VII7ByWD7o"
+    },
+    {
+        "day": "Day 3",
+        "category": "Bonus",
+        "title": "Osterwalder explaining the Business Model Canvas in 6 Minutes",
+        "activity": "Business Model Canvas",
+        "type": "Video",
+        "link": "https://youtu.be/RpFiL-1TVLw"
+    },
+    {
+        "day": "Day 3",
+        "category": "Bonus",
+        "title": "AI Prompt Writing for Scripts by Kelford Inc.",
+        "activity": "Writing Scripts",
+        "type": "Article",
+        "link": "https://labs.kelfordinc.com/lab-notes-ai-prompt-desi"
+    },
+    {
+        "day": "Day 4",
+        "category": "Watch Again",
+        "title": "Strategyzer's Value Proposition Canvas Explained",
+        "activity": "Business Model Canvas",
+        "type": "Video",
+        "link": "https://www.youtube.com/watch?v=ReM1uqmVfP0"
+    },
+    {
+        "day": "Day 4",
+        "category": "Bonus",
+        "title": "Business Model Canvas Explained",
+        "activity": "Business Model Canvas",
+        "type": "Video",
+        "link": "https://youtu.be/QoAOzMTLP5s"
+    },
+    {
+        "day": "Day 4",
+        "category": "Resource",
+        "title": "Go Deeper Into The Value Proposition Canvas",
+        "activity": "Customers & Value Proposition",
+        "type": "Handout",
+        "link": "https://drive.google.com/file/d/1At5Zk1QF-sNFuRmCbftFQ0bml9SQNa-D/view?usp=sharing"
+    },
+    {
+        "day": "Day 4",
+        "category": "Resource",
+        "title": "Interview Quick Reference",
+        "activity": "Interview",
+        "type": "Handout",
+        "link": "https://drive.google.com/file/d/1QRris0frw_548ddsPQAcWpFQ2rCepbm7/view?usp=drive_link"
+    },
+    {
+        "day": "Day 5",
+        "category": "Resource",
+        "title": "University Tech Transfer Offices",
+        "activity": "University Tech Transfer Offices",
+        "type": "Handout",
+        "link": "https://prod-files-secure.s3.us-west-2.amazonaws.com/a7176193-dc1d-4e50-b6c1-5cc833b102c6/c8a272fc-5604-439c-b19b-73280768ffd5/Tech_Transfer_Offices.pdf"
+    },
+    {
+        "day": "General",
+        "category": "Bonus",
+        "title": "Daily Lab: Marketing Motivation Toolkit",
+        "activity": "Motivational Toolkit",
+        "type": "Article",
+        "link": "https://labs.kelfordinc.com/daily-lab-marketing-motivation-toolkit/"
+    },
+    {
+        "day": "General",
+        "category": "Bonus",
+        "title": "Zero Plan (Risk Planning Framework) by Kelford Inc.",
+        "activity": "Assessing Risk",
+        "type": "Article",
+        "link": "https://labs.kelfordinc.com/zero-plan-part-4-framework/"
+    }
+]

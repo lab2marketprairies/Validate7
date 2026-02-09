@@ -1,0 +1,12 @@
+{
+  "highPriority": {
+    "label": "High Priority:",
+    "text": "All scheduled programming (except for the Social Sessions and Weekly Facilitator Office Hours) will be hosted virtually in this Zoom meeting room link:",
+    "link": "https://umanitoba.zoom.us/j/8399047985?pwd=Yzhab1VJV2RRQmYvZ2t2bWZIelV1QT09",
+    "linkText": "Join Zoom Room"
+  },
+  "upcoming": {
+    "label": "Upcoming:",
+    "text": "Welcome Ceremony - March 9, 2026 | TIME: 9:00 am – 2:00 pm (CST)"
+  }
+}
