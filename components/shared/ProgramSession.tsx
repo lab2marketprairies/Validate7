@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
 import { renderTextWithLinks } from '@/lib/utils';
-import { ChevronDown, ChevronUp, Calendar, Clock, MapPin, ExternalLink } from 'lucide-react';
+import { ChevronDown, ChevronUp, Calendar, Clock, MapPin, ExternalLink, Folder } from 'lucide-react';
 
 interface AgendaItem {
     time: string;
@@ -57,7 +57,18 @@ export const ProgramSession = ({ session, zoomLink = 'https://umanitoba.zoom.us/
                         <Clock size={14} className="text-primary" />
                         {session.time}
                     </div>
-                    <div className="w-full sm:w-auto flex gap-2">
+                    <div className="w-full sm:w-auto flex flex-col sm:flex-row gap-2">
+                        {session.materialsLink && (
+                            <Button
+                                size="sm"
+                                variant="outline"
+                                className="flex-1 sm:flex-initial text-xs border-primary/20 hover:bg-primary/5 group"
+                                onClick={() => window.open(session.materialsLink, '_blank')}
+                            >
+                                <Folder size={14} className="mr-2 opacity-60 transition-transform group-hover:scale-110" />
+                                Post-Session Materials
+                            </Button>
+                        )}
                         <Button
                             size="sm"
                             variant="primary"
