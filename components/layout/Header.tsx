@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { UserButton, SignedIn, SignedOut, SignInButton } from '@clerk/nextjs';
-import { LayoutDashboard, Users, Rocket, Target, BookOpen, Layers } from 'lucide-react';
+import { LayoutDashboard, Users, Rocket, Target, BookOpen, Layers, Trophy } from 'lucide-react';
 
 export const Header = () => {
     const pathname = usePathname();
@@ -13,6 +13,7 @@ export const Header = () => {
         { href: '/about', label: 'Program Info', icon: BookOpen },
         { href: '/bootcamp', label: 'Bootcamp', icon: Rocket },
         { href: '/core-program', label: 'Core Program', icon: Target },
+        { href: '/leaderboard', label: 'Leaderboard', icon: Trophy },
         { href: '/team', label: 'Team', icon: Users },
         { href: '/team-folders', label: 'Folders', icon: Layers },
     ];
@@ -42,8 +43,8 @@ export const Header = () => {
                                 key={link.href}
                                 href={link.href}
                                 className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all group ${isActive(link.href)
-                                        ? 'bg-primary/10 text-primary'
-                                        : 'text-gray-500 hover:bg-gray-50 hover:text-onyx'
+                                    ? 'bg-primary/10 text-primary'
+                                    : 'text-gray-500 hover:bg-gray-50 hover:text-onyx'
                                     }`}
                             >
                                 <link.icon size={16} className={isActive(link.href) ? 'text-primary' : 'text-gray-400 group-hover:text-primary transition-colors'} />
