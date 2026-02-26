@@ -28,6 +28,11 @@ export const Hero = () => {
                             {content.buttons.resources}
                         </Button>
                     </Link>
+                    <a href="https://luma.com/lab2market" target="_blank" rel="noopener noreferrer">
+                        <Button size="lg" variant="primary">
+                            {content.buttons.skillsClinic}
+                        </Button>
+                    </a>
                 </div>
             </div>
         </section>

@@ -4,6 +4,7 @@
     "buttons": {
         "bootcamp": "View Bootcamp Schedule",
         "core": "View Core Program Schedule",
-        "resources": "Access Resources"
+        "resources": "Access Resources",
+        "skillsClinic": "L2M Skills Clinic"
     }
 }
