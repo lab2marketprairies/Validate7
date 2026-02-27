@@ -32,11 +32,8 @@ async function fetchLeaderboardData() {
             completed: parseInt(row['Interviews Completed'], 10) || 0,
         }));
 
-        // Filter out any invalid names (e.g. empty or just headers if they leaked through)
+        // Filter out any invalid names
         const validData = data.filter(p => p.name && p.name !== 'Unknown' && p.name !== 'Participant');
-
-        // Sort descending by interviews
-        validData.sort((a, b) => b.interviews - a.interviews);
 
         return validData;
     } catch (error) {
@@ -47,6 +44,9 @@ async function fetchLeaderboardData() {
 
 export default async function LeaderboardPage() {
     const data = await fetchLeaderboardData();
+
+    const scheduledData = [...data].sort((a, b) => b.interviews - a.interviews);
+    const completedData = [...data].sort((a, b) => b.completed - a.completed);
 
     return (
         <div className="min-h-screen bg-polar">
@@ -62,29 +62,49 @@ export default async function LeaderboardPage() {
                             Discovery Leaderboard
                         </h1>
                         <p className="text-xl text-gray-600 leading-relaxed mb-6">
-                            Tracking cohort progress through customer discovery! The taller the tower, the more interviews scheduled. Let's see who can reach the stars! 🚀
+                            Tracking cohort progress through customer discovery! The taller the tower, the more interviews scheduled and completed. Let's see who can reach the stars! 🚀
                         </p>
 
                         <div className="bg-sky-50 border border-sky-100 rounded-xl p-4 flex items-start gap-3">
                             <Info className="text-primary mt-1 flex-shrink-0" size={20} />
                             <p className="text-sm text-sky-900 leading-relaxed">
-                                <strong>How it works:</strong> Each participant's progress is represented by a tower. The height of your tower grows as you schedule more customer discovery interviews. Data syncs directly from the program tracking sheet.
+                                <strong>How it works:</strong> Each participant's progress in scheduled and completed interviews is represented by a tower. The height of your tower grows as you perform customer discovery. Data syncs directly from the program tracking sheet.
                             </p>
                         </div>
                     </div>
                 </div>
 
-                <Card className="p-2 sm:p-6 md:p-8 bg-white border-gray-100/50 shadow-xl overflow-hidden">
-                    {data.length > 0 ? (
-                        <LeaderboardChart data={data} />
-                    ) : (
+                {data.length > 0 ? (
+                    <div className="space-y-12">
+                        <section>
+                            <h2 className="text-2xl font-bold text-onyx mb-6 flex items-center gap-2">
+                                <span className="w-2 h-8 rounded-full bg-sky-500"></span>
+                                Interviews Scheduled
+                            </h2>
+                            <Card className="p-2 sm:p-6 md:p-8 bg-white border-gray-100/50 shadow-xl overflow-hidden">
+                                <LeaderboardChart data={scheduledData} type="scheduled" />
+                            </Card>
+                        </section>
+
+                        <section>
+                            <h2 className="text-2xl font-bold text-onyx mb-6 flex items-center gap-2">
+                                <span className="w-2 h-8 rounded-full bg-emerald-500"></span>
+                                Interviews Completed
+                            </h2>
+                            <Card className="p-2 sm:p-6 md:p-8 bg-white border-gray-100/50 shadow-xl overflow-hidden">
+                                <LeaderboardChart data={completedData} type="completed" />
+                            </Card>
+                        </section>
+                    </div>
+                ) : (
+                    <Card className="p-2 sm:p-6 md:p-8 bg-white border-gray-100/50 shadow-xl overflow-hidden">
                         <div className="flex flex-col items-center justify-center p-12 text-center">
                             <Rocket className="text-gray-300 mb-4" size={48} />
                             <h3 className="text-lg font-bold text-gray-700 mb-2">No data available</h3>
                             <p className="text-gray-500">Could not load the leaderboard data at this time.</p>
                         </div>
-                    )}
-                </Card>
+                    </Card>
+                )}
             </main>
 
             <footer className="bg-onyx text-white py-8 mt-12">

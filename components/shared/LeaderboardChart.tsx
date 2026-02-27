@@ -11,13 +11,16 @@ interface ParticipantData {
 
 interface LeaderboardChartProps {
     data: ParticipantData[];
+    type: 'scheduled' | 'completed';
 }
 
-export const LeaderboardChart = ({ data }: LeaderboardChartProps) => {
+export const LeaderboardChart = ({ data, type }: LeaderboardChartProps) => {
     const [animated, setAnimated] = useState(false);
 
-    // Find absolute maximum for scaling. Minimum ceiling of 10 just in case.
-    const maxInterviews = Math.max(...data.map(d => d.interviews), 10);
+    const getValue = (p: ParticipantData) => type === 'scheduled' ? p.interviews : p.completed;
+
+    // Find absolute maximum for scaling. Minimum ceiling of 5 just in case.
+    const maxValue = Math.max(...data.map(getValue), 5);
 
     useEffect(() => {
         // Trigger animation shortly after mount
@@ -30,7 +33,9 @@ export const LeaderboardChart = ({ data }: LeaderboardChartProps) => {
         if (index === 0) return 'from-yellow-400 to-yellow-300 border-yellow-500 shadow-yellow-200/50';
         if (index === 1) return 'from-gray-300 to-gray-200 border-gray-400 shadow-gray-200/50';
         if (index === 2) return 'from-amber-600 to-amber-500 border-amber-700 shadow-amber-200/50';
-        return 'from-sky-500 to-sky-400 border-sky-600 shadow-sky-200/50';
+        return type === 'scheduled'
+            ? 'from-sky-500 to-sky-400 border-sky-600 shadow-sky-200/50'
+            : 'from-emerald-500 to-emerald-400 border-emerald-600 shadow-emerald-200/50';
     };
 
     return (
@@ -38,8 +43,10 @@ export const LeaderboardChart = ({ data }: LeaderboardChartProps) => {
             {/* Legend / Stats */}
             <div className="flex flex-wrap items-center justify-between mb-8 gap-4 px-2">
                 <div className="flex items-center gap-2">
-                    <span className="inline-flex w-4 h-4 rounded bg-gradient-to-b from-sky-400 to-sky-500"></span>
-                    <span className="text-sm font-medium text-gray-600">Scheduled Interviews</span>
+                    <span className={`inline-flex w-4 h-4 rounded bg-gradient-to-b ${type === 'scheduled' ? 'from-sky-400 to-sky-500' : 'from-emerald-400 to-emerald-500'}`}></span>
+                    <span className="text-sm font-medium text-gray-600">
+                        {type === 'scheduled' ? 'Scheduled Interviews' : 'Completed Interviews'}
+                    </span>
                 </div>
                 <div className="text-sm font-bold text-onyx bg-gray-50 px-4 py-2 rounded-full border border-gray-100 flex gap-2 items-center">
                     <Sparkles className="text-yellow-500" size={16} />
@@ -55,7 +62,7 @@ export const LeaderboardChart = ({ data }: LeaderboardChartProps) => {
                         <div key={i} className="w-full border-b border-dashed border-slate-300/50 h-0 relative">
                             {i < 4 && (
                                 <span className="absolute -top-3 -left-2 text-[10px] text-slate-400 font-mono">
-                                    {Math.round(maxInterviews * (4 - i) / 4)}
+                                    {Math.round(maxValue * (4 - i) / 4)}
                                 </span>
                             )}
                         </div>
@@ -66,7 +73,8 @@ export const LeaderboardChart = ({ data }: LeaderboardChartProps) => {
                 <div className="relative z-10 w-full h-full overflow-x-auto overflow-y-hidden flex items-end gap-2 sm:gap-4 pb-2 px-6 custom-scrollbar scroll-smooth">
                     {data.map((participant, index) => {
                         // Calculate percentage of max height (leave room for rocket)
-                        const heightPercentage = Math.max((participant.interviews / maxInterviews) * 85, 5);
+                        const val = getValue(participant);
+                        const heightPercentage = Math.max((val / maxValue) * 85, 5);
                         const isTop3 = index < 3;
 
                         return (
@@ -77,7 +85,9 @@ export const LeaderboardChart = ({ data }: LeaderboardChartProps) => {
                                 {/* Tooltip on hover */}
                                 <div className="absolute -top-16 opacity-0 group-hover:opacity-100 transition-opacity bg-onyx text-white text-xs rounded-lg py-2 px-3 whitespace-nowrap z-50 pointer-events-none shadow-xl transform translate-y-2 group-hover:translate-y-0 duration-200">
                                     <p className="font-bold">{participant.name}</p>
-                                    <p className="text-sky-300">{participant.interviews} Scheduled</p>
+                                    <p className={type === 'scheduled' ? 'text-sky-300' : 'text-emerald-300'}>
+                                        {val} {type === 'scheduled' ? 'Scheduled' : 'Completed'}
+                                    </p>
                                     <div className="absolute bottom-[-6px] left-1/2 -translate-x-1/2 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-onyx"></div>
                                 </div>
 
@@ -102,7 +112,7 @@ export const LeaderboardChart = ({ data }: LeaderboardChartProps) => {
                                         )}
                                     </div>
                                     <span className="font-mono font-bold text-sm text-onyx bg-white/80 backdrop-blur-sm px-2 rounded-md shadow-sm border border-gray-100 mb-1">
-                                        {participant.interviews}
+                                        {val}
                                     </span>
                                 </div>
 
