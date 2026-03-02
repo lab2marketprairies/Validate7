@@ -7,7 +7,6 @@ import { Header } from '@/components/layout/Header';
 import { Hero } from '@/components/sections/Hero';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
-import { MilestoneCountdown } from '@/components/shared/MilestoneCountdown';
 import { AdminEditReminders } from '@/components/shared/AdminEditReminders';
 import {
   Bell,
@@ -26,11 +25,6 @@ import {
 } from 'lucide-react';
 
 export default function Home() {
-  const nextMilestone = {
-    title: "Welcome Ceremony - Day 1",
-    date: "2026-03-09T09:00:00"
-  };
-
   const quickLinks = [
     { title: 'Information Package', icon: Info, link: '/about', color: 'bg-blue-500' },
     { title: 'Tech Stack', icon: Laptop, link: '/tech-stack', color: 'bg-purple-500' },
@@ -146,10 +140,8 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Sidebar with Milestone and Slack */}
+            {/* Sidebar with Slack and Quick Contact */}
             <aside className="space-y-8">
-              <MilestoneCountdown targetDate={nextMilestone.date} title={nextMilestone.title} />
-
               <Card className="bg-sky-900/5 border-sky-900/10 p-8 flex flex-col items-center text-center">
                 <div className="w-16 h-16 bg-white rounded-2xl shadow-sm flex items-center justify-center mb-6">
                   <Slack size={32} className="text-[#4A154B]" />
