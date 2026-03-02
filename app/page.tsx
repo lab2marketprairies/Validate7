@@ -8,6 +8,7 @@ import { Hero } from '@/components/sections/Hero';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
 import { MilestoneCountdown } from '@/components/shared/MilestoneCountdown';
+import { AdminEditReminders } from '@/components/shared/AdminEditReminders';
 import {
   Bell,
   Calendar,
@@ -55,6 +56,9 @@ export default function Home() {
                   <div className="absolute top-0 right-0 p-4 text-sky-blue/10 group-hover:scale-125 transition-transform duration-500">
                     <Bell size={64} />
                   </div>
+
+                  <AdminEditReminders currentData={reminders} />
+
                   <div className="relative z-10">
                     <h3 className="text-xl font-bold text-onyx flex items-center gap-3 mb-6">
                       <span className="p-2 bg-sky-blue/10 rounded-lg text-sky-blue"><Bell size={20} /></span>
