@@ -104,7 +104,7 @@ export default function TeamPage() {
             member.name.toLowerCase().includes(query) ||
             member.role.toLowerCase().includes(query) ||
             member.expertise?.toLowerCase().includes(query) ||
-            member.location.toLowerCase().includes(query)
+            member.location?.toLowerCase().includes(query)
         );
     }, [searchQuery]);
 
