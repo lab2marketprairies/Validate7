@@ -7,17 +7,22 @@ interface ParticipantData {
     name: string;
     interviews: number;
     completed: number;
+    contacts: number;
 }
 
 interface LeaderboardChartProps {
     data: ParticipantData[];
-    type: 'scheduled' | 'completed';
+    type: 'scheduled' | 'completed' | 'contacts';
 }
 
 export const LeaderboardChart = ({ data, type }: LeaderboardChartProps) => {
     const [animated, setAnimated] = useState(false);
 
-    const getValue = (p: ParticipantData) => type === 'scheduled' ? p.interviews : p.completed;
+    const getValue = (p: ParticipantData) => {
+        if (type === 'scheduled') return p.interviews;
+        if (type === 'completed') return p.completed;
+        return p.contacts;
+    };
 
     // Find absolute maximum for scaling. Minimum ceiling of 5 just in case.
     const maxValue = Math.max(...data.map(getValue), 5);
@@ -33,6 +38,7 @@ export const LeaderboardChart = ({ data, type }: LeaderboardChartProps) => {
         if (index === 0) return 'from-yellow-400 to-yellow-300 border-yellow-500 shadow-yellow-200/50';
         if (index === 1) return 'from-gray-300 to-gray-200 border-gray-400 shadow-gray-200/50';
         if (index === 2) return 'from-amber-600 to-amber-500 border-amber-700 shadow-amber-200/50';
+        if (type === 'contacts') return 'from-purple-500 to-purple-400 border-purple-600 shadow-purple-200/50';
         return type === 'scheduled'
             ? 'from-sky-500 to-sky-400 border-sky-600 shadow-sky-200/50'
             : 'from-emerald-500 to-emerald-400 border-emerald-600 shadow-emerald-200/50';
@@ -43,9 +49,9 @@ export const LeaderboardChart = ({ data, type }: LeaderboardChartProps) => {
             {/* Legend / Stats */}
             <div className="flex flex-wrap items-center justify-between mb-8 gap-4 px-2">
                 <div className="flex items-center gap-2">
-                    <span className={`inline-flex w-4 h-4 rounded bg-gradient-to-b ${type === 'scheduled' ? 'from-sky-400 to-sky-500' : 'from-emerald-400 to-emerald-500'}`}></span>
+                    <span className={`inline-flex w-4 h-4 rounded bg-gradient-to-b ${type === 'contacts' ? 'from-purple-400 to-purple-500' : type === 'scheduled' ? 'from-sky-400 to-sky-500' : 'from-emerald-400 to-emerald-500'}`}></span>
                     <span className="text-sm font-medium text-gray-600">
-                        {type === 'scheduled' ? 'Scheduled Interviews' : 'Completed Interviews'}
+                        {type === 'contacts' ? 'Total Contacts' : type === 'scheduled' ? 'Scheduled Interviews' : 'Completed Interviews'}
                     </span>
                 </div>
                 <div className="text-sm font-bold text-onyx bg-gray-50 px-4 py-2 rounded-full border border-gray-100 flex gap-2 items-center">
@@ -85,8 +91,8 @@ export const LeaderboardChart = ({ data, type }: LeaderboardChartProps) => {
                                 {/* Tooltip on hover */}
                                 <div className="absolute -top-16 opacity-0 group-hover:opacity-100 transition-opacity bg-onyx text-white text-xs rounded-lg py-2 px-3 whitespace-nowrap z-50 pointer-events-none shadow-xl transform translate-y-2 group-hover:translate-y-0 duration-200">
                                     <p className="font-bold">{participant.name}</p>
-                                    <p className={type === 'scheduled' ? 'text-sky-300' : 'text-emerald-300'}>
-                                        {val} {type === 'scheduled' ? 'Scheduled' : 'Completed'}
+                                    <p className={type === 'contacts' ? 'text-purple-300' : type === 'scheduled' ? 'text-sky-300' : 'text-emerald-300'}>
+                                        {val} {type === 'contacts' ? 'Contacts' : type === 'scheduled' ? 'Scheduled' : 'Completed'}
                                     </p>
                                     <div className="absolute bottom-[-6px] left-1/2 -translate-x-1/2 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-onyx"></div>
                                 </div>

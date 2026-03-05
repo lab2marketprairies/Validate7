@@ -28,6 +28,7 @@ async function fetchLeaderboardData() {
         // Transform and clean data
         const data = result.data.map((row: any) => ({
             name: row['Participant'] || 'Unknown',
+            contacts: parseInt(row['Total Contacts'] || row['Total Contacs'] || '0', 10) || 0,
             interviews: parseInt(row['Interviews Scheduled'], 10) || 0,
             completed: parseInt(row['Interviews Completed'], 10) || 0,
         }));
@@ -45,6 +46,7 @@ async function fetchLeaderboardData() {
 export default async function LeaderboardPage() {
     const data = await fetchLeaderboardData();
 
+    const contactsData = [...data].sort((a, b) => b.contacts - a.contacts);
     const scheduledData = [...data].sort((a, b) => b.interviews - a.interviews);
     const completedData = [...data].sort((a, b) => b.completed - a.completed);
 
@@ -62,13 +64,13 @@ export default async function LeaderboardPage() {
                             Discovery Leaderboard
                         </h1>
                         <p className="text-xl text-gray-600 leading-relaxed mb-6">
-                            Tracking cohort progress through customer discovery! The taller the tower, the more interviews scheduled and completed. Let's see who can reach the stars! 🚀
+                            Tracking cohort progress through customer discovery! The taller the tower, the more contacts, scheduled, and completed interviews. Let's see who can reach the stars! 🚀
                         </p>
 
                         <div className="bg-sky-50 border border-sky-100 rounded-xl p-4 flex items-start gap-3">
                             <Info className="text-primary mt-1 flex-shrink-0" size={20} />
                             <p className="text-sm text-sky-900 leading-relaxed">
-                                <strong>How it works:</strong> Each participant's progress in scheduled and completed interviews is represented by a tower. The height of your tower grows as you perform customer discovery. Data syncs directly from the program tracking sheet.
+                                <strong>How it works:</strong> Each participant's progress across contacts, scheduled, and completed interviews is represented by a tower. The height of your tower grows as you perform customer discovery. Data syncs directly from the program tracking sheet.
                             </p>
                         </div>
                     </div>
@@ -76,6 +78,16 @@ export default async function LeaderboardPage() {
 
                 {data.length > 0 ? (
                     <div className="space-y-12">
+                        <section>
+                            <h2 className="text-2xl font-bold text-onyx mb-6 flex items-center gap-2">
+                                <span className="w-2 h-8 rounded-full bg-purple-500"></span>
+                                Total Contacts
+                            </h2>
+                            <Card className="p-2 sm:p-6 md:p-8 bg-white border-gray-100/50 shadow-xl overflow-hidden">
+                                <LeaderboardChart data={contactsData} type="contacts" />
+                            </Card>
+                        </section>
+
                         <section>
                             <h2 className="text-2xl font-bold text-onyx mb-6 flex items-center gap-2">
                                 <span className="w-2 h-8 rounded-full bg-sky-500"></span>
