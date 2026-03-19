@@ -94,6 +94,43 @@ const TeamSection = ({ title, members, emptyMessage }: { title: string, members:
     </section>
 );
 
+const ParticipantSection = ({ title, members, emptyMessage }: { title: string, members: any[], emptyMessage?: string }) => (
+    <section className="mb-16">
+        <h2 className="text-2xl font-bold text-onyx mb-8 flex items-center gap-3">
+            <span className="w-1.5 h-8 bg-purple-500 rounded-full"></span>
+            {title}
+            <span className="ml-2 text-sm font-medium text-gray-400 bg-gray-50 px-3 py-1 rounded-full border border-gray-100">
+                {members.length}
+            </span>
+        </h2>
+
+        {members.length > 0 ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+                {members.map((member, idx) => (
+                    <Card key={`${member.name}-${idx}`} className="p-4 flex flex-col justify-center border-gray-100 hover:shadow-md hover:-translate-y-1 transition-all duration-300 bg-white/80 backdrop-blur-sm">
+                        <div className="flex items-center gap-3">
+                            <div className="w-10 h-10 bg-gradient-to-br from-purple-100 to-purple-50 text-purple-600 rounded-full flex items-center justify-center font-bold text-lg flex-shrink-0 shadow-sm border border-purple-100">
+                                {member.name.charAt(0)}
+                            </div>
+                            <div className="overflow-hidden">
+                                <h3 className="text-sm font-bold text-onyx truncate" title={member.name}>{member.name}</h3>
+                                <a href={`mailto:${member.email}`} className="text-xs text-primary hover:underline truncate block" title={member.email}>
+                                    {member.email}
+                                </a>
+                            </div>
+                        </div>
+                    </Card>
+                ))}
+            </div>
+        ) : (
+            <div className="bg-white/50 backdrop-blur-sm p-12 rounded-2xl shadow-sm text-center border-2 border-dashed border-gray-200">
+                <Info size={32} className="mx-auto text-gray-300 mb-4" />
+                <p className="text-gray-500 font-medium italic">{emptyMessage || "Participants matching your search coming soon..."}</p>
+            </div>
+        )}
+    </section>
+);
+
 export default function TeamPage() {
     const [searchQuery, setSearchQuery] = useState('');
 
@@ -114,6 +151,7 @@ export default function TeamPage() {
     const operationsTeam = getMembersByGroup('operations');
     const facilitatorsTeam = getMembersByGroup('facilitators');
     const mentorsTeam = getMembersByGroup('mentors');
+    const participantsTeam = getMembersByGroup('participants');
 
     return (
         <div className="min-h-screen bg-polar">
@@ -150,6 +188,12 @@ export default function TeamPage() {
                             title="Mentors"
                             members={mentorsTeam}
                             emptyMessage="Mentor list coming soon. Please check back shortly."
+                        />
+                    )}
+                    {participantsTeam.length > 0 && (
+                        <ParticipantSection
+                            title="Participants"
+                            members={participantsTeam}
                         />
                     )}
 
