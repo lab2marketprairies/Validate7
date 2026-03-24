@@ -17,6 +17,8 @@ import aboutData from '@/content/about.json';
 import remindersData from '@/content/reminders.json';
 import scheduleData from '@/content/schedule.json';
 import teamData from '@/content/team.json';
+import supportHoursData from '@/content/support-hours.json';
+import dashboardCardsData from '@/content/dashboard-cards.json';
 
 // Server Action
 import { updateContent } from '@/app/actions/updateContent';
@@ -24,6 +26,7 @@ import { updateContent } from '@/app/actions/updateContent';
 // Array Component Editors
 import TeamEditor from '@/components/admin/TeamEditor';
 import ScheduleEditor from '@/components/admin/ScheduleEditor';
+import DashboardCardsEditor from '@/components/admin/DashboardCardsEditor';
 
 const ADMIN_USER_ID = 'user_39JNBjYkk78K3qb0WHwAaGRQnEU';
 
@@ -80,7 +83,8 @@ export default function AdminDashboardPage() {
     };
 
     const tabs = [
-        { id: 'hero', label: 'Home Page Hero', icon: LayoutDashboard },
+        { id: 'hero', label: 'Dashboard Hero', icon: LayoutDashboard },
+        { id: 'dashboardCards', label: 'Dashboard Panels', icon: LayoutDashboard },
         { id: 'reminders', label: 'Reminders', icon: Bell },
         { id: 'about', label: 'About & Info', icon: InfoIcon },
         { id: 'team', label: 'Team & Mentors', icon: Users },
@@ -331,6 +335,16 @@ export default function AdminDashboardPage() {
                                         </div>
                                     </div>
                                 </div>
+                            )}
+
+                            {/* --- DASHBOARD PANELS TAB --- */}
+                            {activeTab === 'dashboardCards' && (
+                                <DashboardCardsEditor 
+                                    initialSupportHours={supportHoursData} 
+                                    initialDashboardCards={dashboardCardsData} 
+                                    onSave={handleSave} 
+                                    isSubmitting={isSubmitting} 
+                                />
                             )}
 
                             {/* --- TEAM TAB --- */}

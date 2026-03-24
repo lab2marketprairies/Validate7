@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import supportHours from '@/content/support-hours.json';
 import reminders from '@/content/reminders.json';
+import dashboardCards from '@/content/dashboard-cards.json';
 import { Header } from '@/components/layout/Header';
 import { Hero } from '@/components/sections/Hero';
 import { Card } from '@/components/ui/Card';
@@ -25,14 +26,14 @@ import {
 } from 'lucide-react';
 
 export default function Home() {
-  const quickLinks = [
-    { title: 'Information Package', icon: Info, link: '/about', color: 'bg-blue-500' },
-    { title: 'Tech Stack', icon: Laptop, link: '/tech-stack', color: 'bg-purple-500' },
-    { title: 'Support Materials', icon: Library, link: '/support-materials', color: 'bg-amber-500' },
-    { title: 'Bootcamp Material', icon: Rocket, link: '/bootcamp', color: 'bg-rose-500' },
-    { title: 'Core Program', icon: GraduationCap, link: '/core-program', color: 'bg-emerald-500' },
-    { title: 'Team Folders', icon: Folder, link: '/team-folders', color: 'bg-sky-500' },
-  ];
+  const IconMap: { [key: string]: any } = {
+    Info, Laptop, Library, Rocket, GraduationCap, Folder
+  };
+
+  const quickLinks = dashboardCards.navigator.map(item => ({
+    ...item,
+    icon: IconMap[item.icon] || Info
+  }));
 
   return (
     <div className="min-h-screen bg-polar">
@@ -140,21 +141,20 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Sidebar with Slack and Quick Contact */}
             <aside className="space-y-8">
               <Card className="bg-sky-900/5 border-sky-900/10 p-8 flex flex-col items-center text-center">
                 <div className="w-16 h-16 bg-white rounded-2xl shadow-sm flex items-center justify-center mb-6">
                   <Slack size={32} className="text-[#4A154B]" />
                 </div>
-                <h3 className="font-bold text-onyx mb-2 text-lg">Join the Slack Community</h3>
-                <p className="text-sm text-gray-500 mb-8 leading-relaxed">Connect with your cohort, share wins, and get real-time support from mentors.</p>
+                <h3 className="font-bold text-onyx mb-2 text-lg">{dashboardCards.slack.title}</h3>
+                <p className="text-sm text-gray-500 mb-8 leading-relaxed">{dashboardCards.slack.description}</p>
                 <Button
                   variant="outline"
                   fullWidth
                   className="font-bold border-gray-200 hover:border-primary hover:text-primary"
-                  onClick={() => window.open('https://join.slack.com/t/l2mprairies/shared_invite/zt-3nsczt0kg-vH_jePpnjxhoUfiV7Ex9Pg', '_blank')}
+                  onClick={() => window.open(dashboardCards.slack.link, '_blank')}
                 >
-                  Go to Slack
+                  {dashboardCards.slack.buttonText}
                 </Button>
               </Card>
 
@@ -164,14 +164,12 @@ export default function Home() {
                   Quick Contact
                 </h3>
                 <div className="space-y-6">
-                  <div>
-                    <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">Demetre Balaktsis</p>
-                    <a href="mailto:demetre.balaktsis@umanitoba.ca" className="text-sm font-medium text-onyx hover:text-primary transition-colors">demetre.balaktsis@umanitoba.ca</a>
-                  </div>
-                  <div>
-                    <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">JP Giordani</p>
-                    <a href="mailto:jp.giordani@umanitoba.ca" className="text-sm font-medium text-onyx hover:text-primary transition-colors">jp.giordani@umanitoba.ca</a>
-                  </div>
+                  {dashboardCards.contacts.map((contact, idx) => (
+                    <div key={idx}>
+                      <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">{contact.name}</p>
+                      <a href={`mailto:${contact.email}`} className="text-sm font-medium text-onyx hover:text-primary transition-colors">{contact.email}</a>
+                    </div>
+                  ))}
                 </div>
               </Card>
             </aside>

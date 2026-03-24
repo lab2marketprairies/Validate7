@@ -1,0 +1,26 @@
+{
+    "slack": {
+        "title": "Join the Slack Community",
+        "description": "Connect with your cohort, share wins, and get real-time support from mentors.",
+        "buttonText": "Go to Slack",
+        "link": "https://join.slack.com/t/l2mprairies/shared_invite/zt-3nsczt0kg-vH_jePpnjxhoUfiV7Ex9Pg"
+    },
+    "contacts": [
+        {
+            "name": "Demetre Balaktsis",
+            "email": "demetre.balaktsis@umanitoba.ca"
+        },
+        {
+            "name": "JP Giordani",
+            "email": "jp.giordani@umanitoba.ca"
+        }
+    ],
+    "navigator": [
+        { "title": "Information Package", "icon": "Info", "link": "/about", "color": "bg-blue-500" },
+        { "title": "Tech Stack", "icon": "Laptop", "link": "/tech-stack", "color": "bg-purple-500" },
+        { "title": "Support Materials", "icon": "Library", "link": "/support-materials", "color": "bg-amber-500" },
+        { "title": "Bootcamp Material", "icon": "Rocket", "link": "/bootcamp", "color": "bg-rose-500" },
+        { "title": "Core Program", "icon": "GraduationCap", "link": "/core-program", "color": "bg-emerald-500" },
+        { "title": "Team Folders", "icon": "Folder", "link": "/team-folders", "color": "bg-sky-500" }
+    ]
+}
