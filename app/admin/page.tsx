@@ -21,6 +21,10 @@ import teamData from '@/content/team.json';
 // Server Action
 import { updateContent } from '@/app/actions/updateContent';
 
+// Array Component Editors
+import TeamEditor from '@/components/admin/TeamEditor';
+import ScheduleEditor from '@/components/admin/ScheduleEditor';
+
 const ADMIN_USER_ID = 'user_39JNBjYkk78K3qb0WHwAaGRQnEU';
 
 // --- SUB-COMPONENTS --- //
@@ -329,17 +333,14 @@ export default function AdminDashboardPage() {
                                 </div>
                             )}
 
-                            {/* --- PLACEHOLDERS FOR TEAM & SCHEDULE --- */}
-                            {(activeTab === 'team' || activeTab === 'schedule') && (
-                                <div className="space-y-6 text-center py-16 animate-in zoom-in duration-300">
-                                    <div className="w-16 h-16 bg-primary/10 text-primary rounded-full flex items-center justify-center mx-auto mb-4">
-                                        <Loader2 size={32} className="animate-spin" />
-                                    </div>
-                                    <h2 className="text-2xl font-bold text-onyx">Array Editor Under Construction</h2>
-                                    <p className="text-gray-500 max-w-md mx-auto">
-                                        The advanced list editors for the {activeTab} section are currently being built in Phase 3.
-                                    </p>
-                                </div>
+                            {/* --- TEAM TAB --- */}
+                            {activeTab === 'team' && (
+                                <TeamEditor initialData={teamData} onSave={handleSave} isSubmitting={isSubmitting} />
+                            )}
+
+                            {/* --- SCHEDULE TAB --- */}
+                            {activeTab === 'schedule' && (
+                                <ScheduleEditor initialData={scheduleData} onSave={handleSave} isSubmitting={isSubmitting} />
                             )}
 
                             {/* Notifications */}

@@ -2,11 +2,14 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { UserButton, SignedIn, SignedOut, SignInButton } from '@clerk/nextjs';
-import { LayoutDashboard, Users, Rocket, Target, BookOpen, Layers, Trophy } from 'lucide-react';
+import { UserButton, SignedIn, SignedOut, SignInButton, useAuth } from '@clerk/nextjs';
+import { LayoutDashboard, Users, Rocket, Target, BookOpen, Layers, Trophy, Settings } from 'lucide-react';
+
+const ADMIN_USER_ID = 'user_39JNBjYkk78K3qb0WHwAaGRQnEU';
 
 export const Header = () => {
     const pathname = usePathname();
+    const { userId } = useAuth();
 
     const navLinks = [
         { href: '/', label: 'Dashboard', icon: LayoutDashboard },
@@ -55,6 +58,14 @@ export const Header = () => {
 
                     <div className="flex items-center gap-4">
                         <SignedIn>
+                            {userId === ADMIN_USER_ID && (
+                                <Link 
+                                    href="/admin" 
+                                    className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-emerald-50 text-emerald-700 text-xs font-bold border border-emerald-200 hover:bg-emerald-100 transition-colors shadow-sm"
+                                >
+                                    <Settings size={14} /> Admin CMS
+                                </Link>
+                            )}
                             <UserButton afterSignOutUrl="/" />
                         </SignedIn>
                         <SignedOut>
