@@ -97,7 +97,7 @@ export const LeaderboardChart = ({ data, type }: LeaderboardChartProps) => {
                                     <div className="absolute bottom-[-6px] left-1/2 -translate-x-1/2 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-onyx"></div>
                                 </div>
 
-                                {/* Rocket and Count */}
+                                {/* Rocket */}
                                 <div
                                     className="flex flex-col items-center transition-all duration-1000 ease-out z-20"
                                     style={{
@@ -117,9 +117,6 @@ export const LeaderboardChart = ({ data, type }: LeaderboardChartProps) => {
                                             />
                                         )}
                                     </div>
-                                    <span className="font-mono font-bold text-sm text-onyx bg-white/80 backdrop-blur-sm px-2 rounded-md shadow-sm border border-gray-100 mb-1">
-                                        {val}
-                                    </span>
                                 </div>
 
                                 {/* Tower Body */}
@@ -142,10 +139,13 @@ export const LeaderboardChart = ({ data, type }: LeaderboardChartProps) => {
                                     <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/20 to-white/0"></div>
                                 </div>
 
-                                {/* Name Label below tower */}
-                                <div className="mt-3 w-full text-center h-12 flex items-start justify-center">
+                                {/* Name and Score Label below tower */}
+                                <div className="mt-2 w-full text-center h-16 flex flex-col items-center justify-start gap-1 z-20 relative">
                                     <span className="text-[10px] sm:text-xs font-semibold text-gray-600 truncate px-1 max-w-full block leading-tight">
-                                        {participant.name.split(' ')[0]} {/* Show first name to fit better */}
+                                        {participant.name.split(' ')[0]}
+                                    </span>
+                                    <span className="font-mono font-bold text-[10px] sm:text-xs text-onyx bg-white/80 backdrop-blur-sm px-1.5 py-0.5 rounded shadow-sm border border-gray-200">
+                                        {val}
                                     </span>
                                 </div>
                             </div>
